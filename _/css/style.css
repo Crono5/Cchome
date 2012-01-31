@@ -1,0 +1,33 @@
+#contenedorPrincipal {
+background-color: #920095;
+-webkit-border-radius: 10px;
+-moz-border-radius: 10px;
+border-radius: 10px;
+width: 980px;
+margin: auto;
+margin-top: 10px;
+padding-top: 10px;
+}
+#headerPrincipal  {
+height: 100px;
+padding-top: 10px;
+}
+#logo {
+padding-top: 20px;
+background-image: url('_/img/logo.png');
+}
+#headerDer  {
+
+}
+#menuUser  {
+position: relative;
+}
+#menuNav  {
+
+}
+#contenedorHome {
+
+}
+#bgNuevo {
+background: #ecedef;	
+}
