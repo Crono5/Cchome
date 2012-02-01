@@ -41,3 +41,10 @@ margin-top: 10px;
 #bgNuevo {
 background: #ecedef;	
 }
+#tumbHome {
+	margin-left: 0px;
+}
+#infoPostH {
+	margin-left: -30px;
+	width: 320px;
+}

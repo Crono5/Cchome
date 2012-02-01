@@ -83,6 +83,31 @@
 	<div class="page-header">
     <h3 id="titulosWidget">Últimos post <small>últimos post enviados</small></h3>
   </div>
+  <div class="row">
+  	<div class="span3"><ul class="media-grid" id="tumbHome">
+        <li>
+          <a href="#">
+            <img class="thumbnail" src="http://placehold.it/90x90" alt="">
+          </a>
+        </li>
+      </ul></div>
+  	<div class="span5" id="infoPostH"><h3>Madurita muestra sus partes íntimas</h3>
+  		<div class="row">
+  			<div class="span3">
+  				<div class="the-icons">
+        <i class="icon-glass"></i></div><p>Subido por <strong><a>Admin</a></strong></p>
+  				<p>Enero 31, 2012, 09:03:04</p>
+  			</div>
+  			<div class="span2">
+  				<p><strong>1223</strong> Vistas</p>
+  				
+  				<p><strong>0</strong>  Comentarios</p>
+  				</div>
+  		</div>
+  		
+  		  		
+  	</div>
+  </div>
 </div> 
 <div class="span8"> 
 	<div class="row"> 
