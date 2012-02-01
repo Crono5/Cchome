@@ -80,7 +80,9 @@
 <div class="span16" id="contenedorHome"> 
 <div class="row"> 
 <div class="span8"> 
-	lista de pos
+	<div class="page-header">
+    <h3 id="titulosWidget">Últimos post <small>últimos post enviados</small></h3>
+  </div>
 </div> 
 <div class="span8"> 
 	<div class="row"> 
@@ -109,12 +111,12 @@
 </div> 
  
       
- 
+  </div> 
       <footer> 
         <p>&copy; Company 2011</p> 
       </footer> 
  
-    </div> <!-- /container --> 
+   <!-- /container --> 
  </div> 
   </body> 
 </html> 
