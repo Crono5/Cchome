@@ -1,20 +1,17 @@
 <!DOCTYPE html> 
-<html lang="en"> 
+<html lang="es"> <!-- el lenguaje primario es español --> 
   <head> 
     <meta charset="utf-8"> 
-    <title>Cchome.net</title> 
-    <meta name="description" content=""> 
-    <meta name="author" content=""> 
+    <title>Cchome.net</title>  
  
     <!-- Le HTML5 shim, for IE6-8 support of HTML elements --> 
     <!--[if lt IE 9]>
       <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]--> 
  
-    <!-- Le styles --> 
-<link rel="stylesheet" href="http://twitter.github.com/bootstrap/1.4.0/bootstrap.min.css">
-<link rel="stylesheet" href="_/css/style.css">
-    <!-- Le fav and touch icons --> 
+	<link rel="stylesheet" href="http://twitter.github.com/bootstrap/1.4.0/bootstrap.min.css">
+	<link rel="stylesheet" href="_/css/style.css">
+     
     <link rel="shortcut icon" href="images/favicon.ico"> 
     <link rel="apple-touch-icon" href="images/apple-touch-icon.png"> 
     <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png"> 
