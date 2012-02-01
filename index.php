@@ -22,55 +22,55 @@
 	<div id="contenedorPrincipal"> 
 		<div class="container" > 
 			<div class="row"> 
-				<div class="span6" id="logo">
-					<!-- <h2>..COLOMBIA CALIENTE</h2> es necesario este h2 aqui? -->
-				</div> 
+				<div class="span6" id="logo"></div> 
 				<div class="span10" id="headerDer"> 
 					<img src="http://placehold.it/560x100"> 
 				</div> 
 			</div> 
-	</div> 
- <div class="topbar" data-dropdown="dropdown" id="menuUser">
+		</div> 
+	<div class="topbar" data-dropdown="dropdown" id="menuUser">
       <div class="topbar-inner">
         <div class="container">
-        	<ul class="nav"><li><a href="#">Publicar</a></li></ul>
+          <ul class="nav"><li><a href="#">Publicar</a></li></ul>
           <ul class="nav secondary-nav">
           	<li><a href="#">Bienvenido <strong>Visitante</strong></a></li>
             <li class="active"><a href="#">Home</a></li>
             <li><a href="#">Link</a></li>
             <li><a href="#">Link</a></li>
             <li><a href="#">Link</a></li> 
-            <li class="dropdown">
-             </li>
+            <li class="dropdown"></li>
           </ul>
-          
         </div>
       </div><!-- /topbar-inner -->
     </div>
-     <div class="topbar" data-dropdown="dropdown" id="menuUser">
+    <div class="topbar" data-dropdown="dropdown" id="menuUser">
       <div class="topbar-inner">
         <div class="container">
-        	<h3><a href="#" >Colombia Caliente</a></h3>
-            <ul class="nav">
+        	<!-- <h3><a href="#" >Colombia Caliente</a></h3>  esto se debe conservar?-->
+          <ul class="nav">
             <li class="active"><a href="#">Home</a></li>
-            <li><a href="#">Link</a></li>
-            <li><a href="#">Link</a></li>
-            <li><a href="#">Link</a></li>
-            </ul>
-            <ul class="nav secondary-nav">
+            <li><a href="#">Buscador</a></li>
+            <li><a href="#">Contactos</a></li>
+            <li><a href="#">Chat</a></li>
+		    <li><a href="#">Ingresar</a></li>
+		    <li><a href="#">Registrarme</a></li>
+          </ul>
+          <ul class="nav secondary-nav">
             <li><a href="#" class="dropdown-toggle">Categorias</a>
               <ul class="dropdown-menu">
                 <li><a href="#">Secondary link</a></li>
                 <li><a href="#">Something else here</a></li>
                 <li class="divider"></li>
                 <li><a href="#">Another link</a></li>
-              </ul></li>
               </ul>
-              <ul class="nav secondary-nav"><li>
-          <form class="pull-left" action="">
-            <input type="text" placeholder="Buscar"></li></ul>
-          </form>
-          </div>
+			</li>
+          </ul>
+          <ul class="nav secondary-nav"><li>
+            <form class="pull-left" action="">
+            <input type="text" placeholder="Buscar">
+			</form>
+		  </li></ul>
+        </div>
       </div><!-- /topbar-inner -->
     </div>
     <div class"container"></div>

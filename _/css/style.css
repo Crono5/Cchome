@@ -14,11 +14,18 @@ padding-top: 10px;
 }
 #logo {
 padding-top: 20px;
+position: relative;
+top: 15px;
 background: url(../img/logo.png) no-repeat left top;
 height: 63px;
+width: 252px;
+-webkit-border-radius: 10px;
+-moz-border-radius: 10px;
+border-radius: 10px;
 }
 #headerDer  {
-
+position: relative;
+left: 100px;
 }
 #menuUser  {
 position: relative;
