@@ -74,12 +74,12 @@
 					<div class="span4" id="infoPostH"><h3>Madurita muestra sus partes íntimas</h3>
 						<div class="row">
 							<div class="span2">
-							<p>Subido por <strong><a>Admin</a></strong></p>
-									<p>Enero 31, 2012, 09:03:04</p>
+								<p><i class="icon-user"></i> Usuario <strong><a>Admin</a></strong></p>
+								<p><i class="icon-time"></i> 09:03:04</p>
 								</div>
 								<div class="span2">
-									<p><strong>1223</strong> Vistas</p>
-									<p><strong>0</strong>  Comentarios</p>
+									<p><i class="icon-eye-open"></i> Vistas <strong>1223</strong></p>
+									<p><i class="icon-pencil"></i> Comentarios <strong>0</strong> </p>
 								</div>
 							</div>
 						</div>
