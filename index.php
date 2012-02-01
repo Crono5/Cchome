@@ -19,15 +19,17 @@
   </head> 
  
   <body id="bgNuevo"> 
-<div id="contenedorPrincipal"> 
-    <div class="container" > 
-<div class="row"> 
-<div class="span6" id="logo"><h2>COLOMBIA CALIENTE</h2></div> 
-<div class="span10" id="headerDer"> 
-<img src="http://placehold.it/560x100"> 
-</div> 
-</div> 
-</div> 
+	<div id="contenedorPrincipal"> 
+		<div class="container" > 
+			<div class="row"> 
+				<div class="span6" id="logo">
+					<!-- <h2>..COLOMBIA CALIENTE</h2> es necesario este h2 aqui? -->
+				</div> 
+				<div class="span10" id="headerDer"> 
+					<img src="http://placehold.it/560x100"> 
+				</div> 
+			</div> 
+	</div> 
  <div class="topbar" data-dropdown="dropdown" id="menuUser">
       <div class="topbar-inner">
         <div class="container">

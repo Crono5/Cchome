@@ -14,7 +14,8 @@ padding-top: 10px;
 }
 #logo {
 padding-top: 20px;
-background-image: url('_/img/logo.png');
+background: url(../img/logo.png) no-repeat left top;
+height: 63px;
 }
 #headerDer  {
 
