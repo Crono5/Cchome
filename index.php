@@ -1,5 +1,5 @@
 <!DOCTYPE html> 
-<html lang="es"> <!-- el lenguaje primario es español --> 
+<html lang="es">  
   <head> 
     <meta charset="utf-8"> 
     <title>Cchome.net</title>  
@@ -73,73 +73,86 @@
         </div>
       </div><!-- /topbar-inner -->
     </div>
-    <div class"container"></div>
-<div class="row" id="menuNav"> 
-</div> 
-<div class="span16" id="contenedorHome"> 
-<div class="row"> 
-<div class="span8"> 
-	<div class="page-header">
-    <h3 id="titulosWidget">Últimos post <small>últimos post enviados</small></h3>
-  </div>
-  <div class="row">
-  	<div class="span3"><ul class="media-grid" id="tumbHome">
-        <li>
-          <a href="#">
-            <img class="thumbnail" src="http://placehold.it/90x90" alt="">
-          </a>
-        </li>
-      </ul></div>
-  	<div class="span5" id="infoPostH"><h3>Madurita muestra sus partes íntimas</h3>
-  		<div class="row">
-  			<div class="span3">
-  				<div class="the-icons">
-        <i class="icon-glass"></i></div><p>Subido por <strong><a>Admin</a></strong></p>
-  				<p>Enero 31, 2012, 09:03:04</p>
-  			</div>
-  			<div class="span2">
-  				<p><strong>1223</strong> Vistas</p>
-  				
-  				<p><strong>0</strong>  Comentarios</p>
-  				</div>
-  		</div>
-  		
-  		  		
-  	</div>
-  </div>
-</div> 
-<div class="span8"> 
-	<div class="row"> 
-	<div class="span6"><h3>Únete</h3></div> 
-	<div class="span2"><h3>Publicidad</h3></div> 
+	
+    <div class"container"></div>    <!-- este es para que? -->
+	<div class="row" id="menuNav"> 
 	</div> 
-	<div class="row"> 
-	<div class="span4"><h3>hoy</h3></div> 
-	<div class="span4"><h3>semana</h3></div> 
+	<div class="span16" id="contenedorHome"> 
+		<div class="row"> 
+			<div class="span8"> 
+				<div class="page-header">
+					<h3 id="titulosWidget">Últimos post <small>últimos post enviados</small></h3>
+				</div>
+				<div class="row">
+					<div class="span3"><ul class="media-grid" id="tumbHome">
+						<!-- <ul> -->
+							<li>
+							  <a href="#">
+								<img class="thumbnail" src="http://placehold.it/90x90" alt="">
+							  </a>
+							</li>
+						</ul>
+					</div>
+					<div class="span5" id="infoPostH"><h3>Madurita muestra sus partes íntimas</h3>
+						<div class="row">
+							<div class="span3">
+								<div class="the-icons">
+									<i class="icon-glass"></i></div><p>Subido por <strong><a>Admin</a></strong></p>
+									<p>Enero 31, 2012, 09:03:04</p>
+								</div>
+								<div class="span2">
+									<p><strong>1223</strong> Vistas</p>
+									<p><strong>0</strong>  Comentarios</p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div> 
+				
+				<div class="span8"> 
+					<div class="row"> 
+						<div class="span6"><h3>Únete</h3></div> 
+						<div class="span2"><h3>Publicidad</h3></div> 
+					</div> 
+					<div class="row"> 
+						<div class="span4"><h3>hoy</h3></div> 
+						<div class="span4"><h3>semana</h3></div> 
+					</div> 
+					<div class="row"> 
+						<div class="span6"> 
+							<h3>Comentarios</h3> 
+							<div class="row"> 
+								<div class="span6"><h3>Sobre nosotros</h3></div>	
+							</div> 
+						</div> 
+						<div class="span2"><h3>Publicidad</h3></div> 
+					</div> 
+				</div> 
+	
+			</div> 
+			<div class="row"> 
+			<div class="span8"> 
+		</div> 
 	</div> 
-	<div class="row"> 
-	<div class="span6"> 
-	<h3>Comentarios</h3> 
-	<div class="row"> 
-	<div class="span6"><h3>Sobre nosotros</h3></div>	
-	</div> 
-	</div> 
-	<div class="span2"><h3>Publicidad</h3></div> 
-	</div> 
-</div> 
-</div> 
-<div class="row"> 
-<div class="span8"> 
-</div> 
- 
-</div> 
- 
-      
   </div> 
-      <footer> 
-        <p>&copy; Company 2011</p> 
+  
+      <footer>
+		<div class="navbar">
+		  <div class="navbar-inner">
+			<div class="container">
+				<ul class="nav">
+					<li><a class="active" href="#">Protocolo</a></li>
+					<li><a href="#">Politicas de Privacidad</a></li>
+					<li><a href="#">Concursos y premios</a></li>
+					<li><a href="#">Ayuda</a></li>
+					<li><a href="#">Publicidad de nuestro Sitio</a></li>
+					<li ><a href="#">Denuncias</a></li>
+					<li ><a href="#">Mapa del sitio</a></li>
+				</ul>
+			</div>
+		  </div>
+		</div>	
       </footer> 
- 
    <!-- /container --> 
  </div> 
   </body> 
