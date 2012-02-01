@@ -56,28 +56,25 @@
             </ul>
 				</div>
   		</div>
-	</div> 
-	<div class="span12" id="contenedorHome"> 
-		<div class="row"> 
-			<div class="span6"> 
-				<div class="page-header">
-					<h3 id="titulosWidget">Últimos post <small>últimos post enviados</small></h3>
-				</div>
-				<div class="row">
-					<div class="span2"><ul class="media-grid" id="tumbHome">
-						<!-- <ul> -->
+		</div> 
+		<div class="row" id="contenedorHome">
+			<div class="span6">
+			<div class="page-header" id="titulosWidget">
+					<h3>Últimos post <small>últimos post enviados</small></h3>
+			</div>
+			<div class="span2" id="tumbHome">
+				<ul class="thumbnails">
 							<li>
 							  <a href="#">
 								<img class="thumbnail" src="http://placehold.it/90x90" alt="">
 							  </a>
 							</li>
-						</ul>
+				</ul>
 					</div>
 					<div class="span4" id="infoPostH"><h3>Madurita muestra sus partes íntimas</h3>
 						<div class="row">
 							<div class="span2">
-								<div class="the-icons">
-									<i class="icon-glass"></i></div><p>Subido por <strong><a>Admin</a></strong></p>
+							<p>Subido por <strong><a>Admin</a></strong></p>
 									<p>Enero 31, 2012, 09:03:04</p>
 								</div>
 								<div class="span2">
@@ -87,37 +84,39 @@
 							</div>
 						</div>
 					</div>
-				</div> 
-				
-				<div class="span6"> 
-					<div class="row"> 
-						<div class="span4"><h3>Únete</h3></div> 
-						<div class="span2"><h3>Publicidad</h3></div> 
-					</div> 
-					<div class="row"> 
-						<div class="span3"><h3>hoy</h3></div> 
-						<div class="span3"><h3>semana</h3></div> 
-					</div> 
-					<div class="row"> 
-						<div class="span4"> 
-							<h3>Comentarios</h3> 
-							<div class="row"> 
-								<div class="span4"><h3>Sobre nosotros</h3></div>	
-							</div> 
-						</div> 
-						<div class="span2"><h3>Publicidad</h3></div> 
-					</div> 
-				</div> 
-	
-			</div> 
-			<div class="row"> 
-			<div class="span8"> 
-		</div> 
-	</div> 
-  </div> 
-  </div> 
-      </div>  
+  		
+  		<div class="span6">
+  			<div class="row" id="unete">
+  				<div class="span4"><h3>Únete</h3></div>
+  				<div class="span2"><h3>ads</h3></div>
+  			</div> 
+			<div class="row" id="destacados">
+				<div class="span3"><h3>hoy</h3></div> 
+			    <div class="span3"><h3>semana</h3></div>
+			</div>
+  			<div class="row" id="destacados">
+			<div class="span4"><h3>Comentarios</h3></div>
+  			</div> 
+  		</div> 
+      </div> 
+       <footer>
+		<div class="navbar">
+				<div class="container">
+				<ul class="nav">
+					<li><a class="active" href="#">Protocolo</a></li>
+					<li><a href="#">Politicas de Privacidad</a></li>
+					<li><a href="#">Concursos y premios</a></li>
+					<li><a href="#">Ayuda</a></li>
+					<li><a href="#">Publicidad de nuestro Sitio</a></li>
+					<li ><a href="#">Denuncias</a></li>
+					<li ><a href="#">Mapa del sitio</a></li>
+				</ul>
+		  </div>
+		</div>	
+      </footer>
+      </div> <!-- /contenedorHome -->  
    <!-- /container --> 
+   
  </div> 
   </body> 
 </html> 
