@@ -256,15 +256,15 @@
 					</div>
   	     	</div>
   		<div class="span6">
-  			<div class="row" id="unete">
+  			<div class="row widgetBloqueHome" id="unete">
   				<div class="span4"><h3>Únete</h3></div>
   				<div class="span2"><h3>ads</h3></div>
   			</div> 
-			<div class="row" id="destacados">
+			<div class="row widgetBloqueHome" id="destacados">
 				<div class="span3"><h3>hoy</h3></div> 
 			    <div class="span3"><h3>semana</h3></div>
 			</div>
-  			<div class="row" id="destacados">
+  			<div class="row widgetBloqueHome" id="destacados">
 			<div class="span4"><h3>Comentarios</h3></div>
   			</div> 
   		</div> 

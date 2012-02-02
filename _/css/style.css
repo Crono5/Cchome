@@ -29,6 +29,9 @@ left: 100px;
 }
 #menuUser  {
 margin-bottom: 0px;
+-webkit-border-radius: 0px;
+-moz-border-radius: 0px;
+border-radius: 0px;
 }
 #menuNav  {
 
@@ -44,17 +47,17 @@ padding-top: 10px;
 margin-top: 10px;
 }
 #titulosWidget {
-	margin-left: 10px;
+margin: 0px;
 }
 #bgNuevo {
 background: #ecedef;	
 }
 #tumbHome {
-	margin-left: 0px;
+	margin: 10px 0px 10px 10px;
 }
 #infoPostH {
-	margin-left: -30px;
-	width: 320px;
+margin: 10px 0px 10px -20px;
+width: 349px;
 }
 #postHome{
 border-top-style:solid;
@@ -63,11 +66,16 @@ border-color: rgb(206,209,215);
 border-width:1px;
 }
 #unete{
-height:185px;
-background-color:rgb(245,245,245);
+height: 185px;
+background-color: #D8D8D8;
 -webkit-border-radius: 5px;
 -moz-border-radius: 5px;
 border-radius: 5px;
+margin-left: -30px;
+}
+.widgetBloqueHome {
+	width: 480px;
+	margin-left: -30px;	
 }
 #unete h3{
 text-align: center
@@ -111,7 +119,7 @@ height:25px;
 }
 #destacados{
 height:310px;
-background-color:rgb(245,245,245);
+background-color: #D8D8D8;
 -webkit-border-radius: 5px;
 -moz-border-radius: 5px;
 border-radius: 5px;
