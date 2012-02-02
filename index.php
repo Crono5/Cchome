@@ -62,342 +62,211 @@
 			<div class="page-header" id="titulosWidget">
 					<h3>Últimos post <small>últimos post enviados</small></h3>
 			</div>
-			<!-- 10 post dummy -->
-			<div class="row" id="postHome">
-		      <div class="span2" id="tumbHome">
+			<div class="row" i="postHome">
+			<div class="span2" id="tumbHome">
 				<ul class="thumbnails">
-					<li>
-						<a href="#">
-						<img class="thumbnail" src="http://placehold.it/90x90" alt="">
-						</a>
-					</li>
+							<li>
+							  <a href="#">
+								<img class="thumbnail" src="http://placehold.it/90x90" alt="">
+							  </a>
+							</li>
 				</ul>
-			  </div>
-				<div class="span4" id="infoPostH"><h3>Madurita muestra sus partes íntimas</h3>
-					<div class="row">
-						<div class="span2">
-							<p><i class="icon-user"></i> Por <strong><a>Admin</a></strong></p>
-							<p><i class="icon-time"></i> Fecha <strong></strong>9:03:04</p>
-						</div>
-						<div class="span2">
-							<p><i class="icon-eye-open"></i> Vistas <strong>1223</strong></p>
-							<p><i class="icon-comment"></i> Comentarios <strong>0</strong> </p>
-						</div>
 					</div>
-				</div>		
-			</div>
-			<div class="row" id="postHome">
-		      <div class="span2" id="tumbHome">
+					<div class="span4" id="infoPostH"><h3>Madurita muestra sus partes íntimas</h3>
+						<div class="row">
+							<div class="span2">
+								<p><i class="icon-user"></i> Por <strong><a>Admin</a></strong></p>
+								<p><i class="icon-time"></i> Fecha <strong></strong>9:03:04</p>
+								</div>
+								<div class="span2">
+									<p><i class="icon-eye-open"></i> Vistas <strong>1223</strong></p>
+									<p><i class="icon-comment"></i> Comentarios <strong>0</strong> </p>
+								</div>
+							</div>
+						</div>
+						
+					</div>
+					<div class="row" i="postHome">
+			<div class="span2" id="tumbHome">
 				<ul class="thumbnails">
-					<li>
-						<a href="#">
-						<img class="thumbnail" src="http://placehold.it/90x90" alt="">
-						</a>
-					</li>
+							<li>
+							  <a href="#">
+								<img class="thumbnail" src="http://placehold.it/90x90" alt="">
+							  </a>
+							</li>
 				</ul>
-			  </div>
-				<div class="span4" id="infoPostH"><h3>Madurita muestra sus partes íntimas</h3>
-					<div class="row">
-						<div class="span2">
-							<p><i class="icon-user"></i> Por <strong><a>Admin</a></strong></p>
-							<p><i class="icon-time"></i> Fecha <strong></strong>9:03:04</p>
-						</div>
-						<div class="span2">
-							<p><i class="icon-eye-open"></i> Vistas <strong>1223</strong></p>
-							<p><i class="icon-comment"></i> Comentarios <strong>0</strong> </p>
-						</div>
 					</div>
-				</div>		
-			</div>
-			<div class="row" id="postHome">
-		      <div class="span2" id="tumbHome">
+					<div class="span4" id="infoPostH"><h3>Madurita muestra sus partes íntimas</h3>
+						<div class="row">
+							<div class="span2">
+								<p><i class="icon-user"></i> Por <strong><a>Admin</a></strong></p>
+								<p><i class="icon-time"></i> Fecha <strong></strong>9:03:04</p>
+								</div>
+								<div class="span2">
+									<p><i class="icon-eye-open"></i> Vistas <strong>1223</strong></p>
+									<p><i class="icon-comment"></i> Comentarios <strong>0</strong> </p>
+								</div>
+							</div>
+						</div>
+						
+					</div>
+					<div class="row" i="postHome">
+			<div class="span2" id="tumbHome">
 				<ul class="thumbnails">
-					<li>
-						<a href="#">
-						<img class="thumbnail" src="http://placehold.it/90x90" alt="">
-						</a>
-					</li>
+							<li>
+							  <a href="#">
+								<img class="thumbnail" src="http://placehold.it/90x90" alt="">
+							  </a>
+							</li>
 				</ul>
-			  </div>
-				<div class="span4" id="infoPostH"><h3>Madurita muestra sus partes íntimas</h3>
-					<div class="row">
-						<div class="span2">
-							<p><i class="icon-user"></i> Por <strong><a>Admin</a></strong></p>
-							<p><i class="icon-time"></i> Fecha <strong></strong>9:03:04</p>
-						</div>
-						<div class="span2">
-							<p><i class="icon-eye-open"></i> Vistas <strong>1223</strong></p>
-							<p><i class="icon-comment"></i> Comentarios <strong>0</strong> </p>
-						</div>
 					</div>
-				</div>		
-			</div>
-			<div class="row" id="postHome">
-		      <div class="span2" id="tumbHome">
+					<div class="span4" id="infoPostH"><h3>Madurita muestra sus partes íntimas</h3>
+						<div class="row">
+							<div class="span2">
+								<p><i class="icon-user"></i> Por <strong><a>Admin</a></strong></p>
+								<p><i class="icon-time"></i> Fecha <strong></strong>9:03:04</p>
+								</div>
+								<div class="span2">
+									<p><i class="icon-eye-open"></i> Vistas <strong>1223</strong></p>
+									<p><i class="icon-comment"></i> Comentarios <strong>0</strong> </p>
+								</div>
+							</div>
+						</div>
+						
+					</div>
+					<div class="row" i="postHome">
+			<div class="span2" id="tumbHome">
 				<ul class="thumbnails">
-					<li>
-						<a href="#">
-						<img class="thumbnail" src="http://placehold.it/90x90" alt="">
-						</a>
-					</li>
+							<li>
+							  <a href="#">
+								<img class="thumbnail" src="http://placehold.it/90x90" alt="">
+							  </a>
+							</li>
 				</ul>
-			  </div>
-				<div class="span4" id="infoPostH"><h3>Madurita muestra sus partes íntimas</h3>
-					<div class="row">
-						<div class="span2">
-							<p><i class="icon-user"></i> Por <strong><a>Admin</a></strong></p>
-							<p><i class="icon-time"></i> Fecha <strong></strong>9:03:04</p>
-						</div>
-						<div class="span2">
-							<p><i class="icon-eye-open"></i> Vistas <strong>1223</strong></p>
-							<p><i class="icon-comment"></i> Comentarios <strong>0</strong> </p>
-						</div>
 					</div>
-				</div>		
-			</div>
-			<div class="row" id="postHome">
-		      <div class="span2" id="tumbHome">
+					<div class="span4" id="infoPostH"><h3>Madurita muestra sus partes íntimas</h3>
+						<div class="row">
+							<div class="span2">
+								<p><i class="icon-user"></i> Por <strong><a>Admin</a></strong></p>
+								<p><i class="icon-time"></i> Fecha <strong></strong>9:03:04</p>
+								</div>
+								<div class="span2">
+									<p><i class="icon-eye-open"></i> Vistas <strong>1223</strong></p>
+									<p><i class="icon-comment"></i> Comentarios <strong>0</strong> </p>
+								</div>
+							</div>
+						</div>
+						
+					</div>
+					<div class="row" i="postHome">
+			<div class="span2" id="tumbHome">
 				<ul class="thumbnails">
-					<li>
-						<a href="#">
-						<img class="thumbnail" src="http://placehold.it/90x90" alt="">
-						</a>
-					</li>
+							<li>
+							  <a href="#">
+								<img class="thumbnail" src="http://placehold.it/90x90" alt="">
+							  </a>
+							</li>
 				</ul>
-			  </div>
-				<div class="span4" id="infoPostH"><h3>Madurita muestra sus partes íntimas</h3>
-					<div class="row">
-						<div class="span2">
-							<p><i class="icon-user"></i> Por <strong><a>Admin</a></strong></p>
-							<p><i class="icon-time"></i> Fecha <strong></strong>9:03:04</p>
-						</div>
-						<div class="span2">
-							<p><i class="icon-eye-open"></i> Vistas <strong>1223</strong></p>
-							<p><i class="icon-comment"></i> Comentarios <strong>0</strong> </p>
-						</div>
 					</div>
-				</div>		
-			</div>
-			<div class="row" id="postHome">
-		      <div class="span2" id="tumbHome">
+					<div class="span4" id="infoPostH"><h3>Madurita muestra sus partes íntimas</h3>
+						<div class="row">
+							<div class="span2">
+								<p><i class="icon-user"></i> Por <strong><a>Admin</a></strong></p>
+								<p><i class="icon-time"></i> Fecha <strong></strong>9:03:04</p>
+								</div>
+								<div class="span2">
+									<p><i class="icon-eye-open"></i> Vistas <strong>1223</strong></p>
+									<p><i class="icon-comment"></i> Comentarios <strong>0</strong> </p>
+								</div>
+							</div>
+						</div>
+						
+					</div>
+					<div class="row" i="postHome">
+			<div class="span2" id="tumbHome">
 				<ul class="thumbnails">
-					<li>
-						<a href="#">
-						<img class="thumbnail" src="http://placehold.it/90x90" alt="">
-						</a>
-					</li>
+							<li>
+							  <a href="#">
+								<img class="thumbnail" src="http://placehold.it/90x90" alt="">
+							  </a>
+							</li>
 				</ul>
-			  </div>
-				<div class="span4" id="infoPostH"><h3>Madurita muestra sus partes íntimas</h3>
-					<div class="row">
-						<div class="span2">
-							<p><i class="icon-user"></i> Por <strong><a>Admin</a></strong></p>
-							<p><i class="icon-time"></i> Fecha <strong></strong>9:03:04</p>
-						</div>
-						<div class="span2">
-							<p><i class="icon-eye-open"></i> Vistas <strong>1223</strong></p>
-							<p><i class="icon-comment"></i> Comentarios <strong>0</strong> </p>
-						</div>
 					</div>
-				</div>		
-			</div>
-			<div class="row" id="postHome">
-		      <div class="span2" id="tumbHome">
+					<div class="span4" id="infoPostH"><h3>Madurita muestra sus partes íntimas</h3>
+						<div class="row">
+							<div class="span2">
+								<p><i class="icon-user"></i> Por <strong><a>Admin</a></strong></p>
+								<p><i class="icon-time"></i> Fecha <strong></strong>9:03:04</p>
+								</div>
+								<div class="span2">
+									<p><i class="icon-eye-open"></i> Vistas <strong>1223</strong></p>
+									<p><i class="icon-comment"></i> Comentarios <strong>0</strong> </p>
+								</div>
+							</div>
+						</div>
+						
+					</div>
+					<div class="row" i="postHome">
+			<div class="span2" id="tumbHome">
 				<ul class="thumbnails">
-					<li>
-						<a href="#">
-						<img class="thumbnail" src="http://placehold.it/90x90" alt="">
-						</a>
-					</li>
+							<li>
+							  <a href="#">
+								<img class="thumbnail" src="http://placehold.it/90x90" alt="">
+							  </a>
+							</li>
 				</ul>
-			  </div>
-				<div class="span4" id="infoPostH"><h3>Madurita muestra sus partes íntimas</h3>
-					<div class="row">
-						<div class="span2">
-							<p><i class="icon-user"></i> Por <strong><a>Admin</a></strong></p>
-							<p><i class="icon-time"></i> Fecha <strong></strong>9:03:04</p>
-						</div>
-						<div class="span2">
-							<p><i class="icon-eye-open"></i> Vistas <strong>1223</strong></p>
-							<p><i class="icon-comment"></i> Comentarios <strong>0</strong> </p>
-						</div>
 					</div>
-				</div>		
-			</div>
-			<div class="row" id="postHome">
-		      <div class="span2" id="tumbHome">
+					<div class="span4" id="infoPostH"><h3>Madurita muestra sus partes íntimas</h3>
+						<div class="row">
+							<div class="span2">
+								<p><i class="icon-user"></i> Por <strong><a>Admin</a></strong></p>
+								<p><i class="icon-time"></i> Fecha <strong></strong>9:03:04</p>
+								</div>
+								<div class="span2">
+									<p><i class="icon-eye-open"></i> Vistas <strong>1223</strong></p>
+									<p><i class="icon-comment"></i> Comentarios <strong>0</strong> </p>
+								</div>
+							</div>
+						</div>
+						
+					</div>
+					<div class="row" i="postHome">
+			<div class="span2" id="tumbHome">
 				<ul class="thumbnails">
-					<li>
-						<a href="#">
-						<img class="thumbnail" src="http://placehold.it/90x90" alt="">
-						</a>
-					</li>
+							<li>
+							  <a href="#">
+								<img class="thumbnail" src="http://placehold.it/90x90" alt="">
+							  </a>
+							</li>
 				</ul>
-			  </div>
-				<div class="span4" id="infoPostH"><h3>Madurita muestra sus partes íntimas</h3>
-					<div class="row">
-						<div class="span2">
-							<p><i class="icon-user"></i> Por <strong><a>Admin</a></strong></p>
-							<p><i class="icon-time"></i> Fecha <strong></strong>9:03:04</p>
-						</div>
-						<div class="span2">
-							<p><i class="icon-eye-open"></i> Vistas <strong>1223</strong></p>
-							<p><i class="icon-comment"></i> Comentarios <strong>0</strong> </p>
-						</div>
 					</div>
-				</div>		
-			</div>
-			<div class="row" id="postHome">
-		      <div class="span2" id="tumbHome">
-				<ul class="thumbnails">
-					<li>
-						<a href="#">
-						<img class="thumbnail" src="http://placehold.it/90x90" alt="">
-						</a>
-					</li>
-				</ul>
-			  </div>
-				<div class="span4" id="infoPostH"><h3>Madurita muestra sus partes íntimas</h3>
-					<div class="row">
-						<div class="span2">
-							<p><i class="icon-user"></i> Por <strong><a>Admin</a></strong></p>
-							<p><i class="icon-time"></i> Fecha <strong></strong>9:03:04</p>
+					<div class="span4" id="infoPostH"><h3>Madurita muestra sus partes íntimas</h3>
+						<div class="row">
+							<div class="span2">
+								<p><i class="icon-user"></i> Por <strong><a>Admin</a></strong></p>
+								<p><i class="icon-time"></i> Fecha <strong></strong>9:03:04</p>
+								</div>
+								<div class="span2">
+									<p><i class="icon-eye-open"></i> Vistas <strong>1223</strong></p>
+									<p><i class="icon-comment"></i> Comentarios <strong>0</strong> </p>
+								</div>
+							</div>
 						</div>
-						<div class="span2">
-							<p><i class="icon-eye-open"></i> Vistas <strong>1223</strong></p>
-							<p><i class="icon-comment"></i> Comentarios <strong>0</strong> </p>
-						</div>
+						
 					</div>
-				</div>		
+  	     	</div>
+  		<div class="span6">
+  			<div class="row" id="unete">
+  				<div class="span4"><h3>Únete</h3></div>
+  				<div class="span2"><h3>ads</h3></div>
+  			</div> 
+			<div class="row" id="destacados">
+				<div class="span3"><h3>hoy</h3></div> 
+			    <div class="span3"><h3>semana</h3></div>
 			</div>
-			<div class="row" id="postHome">
-		      <div class="span2" id="tumbHome">
-				<ul class="thumbnails">
-					<li>
-						<a href="#">
-						<img class="thumbnail" src="http://placehold.it/90x90" alt="">
-						</a>
-					</li>
-				</ul>
-			  </div>
-				<div class="span4" id="infoPostH"><h3>Madurita muestra sus partes íntimas</h3>
-					<div class="row">
-						<div class="span2">
-							<p><i class="icon-user"></i> Por <strong><a>Admin</a></strong></p>
-							<p><i class="icon-time"></i> Fecha <strong></strong>9:03:04</p>
-						</div>
-						<div class="span2">
-							<p><i class="icon-eye-open"></i> Vistas <strong>1223</strong></p>
-							<p><i class="icon-comment"></i> Comentarios <strong>0</strong> </p>
-						</div>
-					</div>
-				</div>		
-			</div>
-			<!-- /post dummy -->
-		    </div>
-  		<div class="span4" id="unete">
-				  <h3>Únete</h3>
-				  <div class="botonessocial">
-				  <div class="botonfb">
-				   Facebook boton
-				  </div>
-				  <div class="botontw">
-				  <a href="https://twitter.com/masajistas" class="twitter-follow-button" data-show-count="false" data-lang="es">Segui @masajistas</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-				  </div>
-				  </div>
-				  <div class="botonpublicar">
-					<a href="#" class="btn btn-large btn-success">Publicar</a>
-				  </div>
-				  <div class="temascalientes">
-				  <h4>Temas Calientes</h4>
-				  <ul class="nav nav-pills">
-					<li><a href="#">Tema1</a></li>
-				    <li><a href="#">Tema2</a></li>
-				    <li><a href="#">Tema3</a></li>
-					<li><a href="#">Tema4</a></li>
-				  </ul>
-				  </div>
-  		</div> 
-			<div class="span2" id="publi1lat">
-				<img class="thumbnail" src="http://placehold.it/160x195" alt="">
-			</div>
-			
-			<div class="span6" id="destacados">
-				<h3>Destacados</h3>
-				<div class="row">
-				<div class="span3" id="hoy">
-				<h3>Hoy</h3>
-				<ul class="nav nav-pills nav-stacked">
-				 <li><a href="#">Nombre estandar de un Articulo destacado 1</a></li>
-				 <li><a href="#">Nombre estandar de un Articulo destacado 2</a></li>
-				 <li><a href="#">Nombre estandar de un Articulo destacado 3</a></li>
-				 <li><a href="#">Nombre estandar de un Articulo destacado 4</a></li>
-				 <li><a href="#">Nombre estandar de un Articulo destacado 5</a></li>
-				</ul>
-				</div> 
-			    <div class="span3" id="historia">
-				<h3>Semana</h3>
-				<ul class="nav nav-pills nav-stacked">
-				<li><a href="#">Nombre estandar de un Articulo destacado semana</a></li>
-				</ul>
-				<h3>Mes</h3>
-				<ul class="nav nav-pills nav-stacked">
-				<li><a href="#">Nombre estandar de un Articulo destacado mes</a></li>
-				</ul>
-				<h3>Año</h3>
-				<ul class="nav nav-pills nav-stacked">
-				<li><a href="#">Nombre estandar de un Articulo destacado año</a></li>
-				</ul>
-				</div>
-				</div>
-			</div>
-			<div class="span4" id="contenedorsp4">
-			<div class="span4" id="comentarios">
-			<h3>Comentarios Destacados</h3>
-			<!--3comentarios dummy -->
-			<div class="row" id="comdestac">
-		      <div class="span1" >
-			  <img class="thumbnail" src="http://placehold.it/50x50" alt="">
-			  </div>
-			  <div class="span3">
-			  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum laoreet rutrum scelerisque. </p>
-			  </div>
-			</div>
-			<div class="row" id="comdestac">
-		      <div class="span1" >
-			  <img class="thumbnail" src="http://placehold.it/50x50" alt="">
-			  </div>
-			  <div class="span3">
-			  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum laoreet rutrum scelerisque. </p>
-			  </div>
-			</div>
-			<div class="row" id="comdestac">
-		      <div class="span1" >
-			  <img class="thumbnail" src="http://placehold.it/50x50" alt="">
-			  </div>
-			  <div class="span3">
-			  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum laoreet rutrum scelerisque. </p>
-			  </div>
-			</div>
-			<!-- /comentarios dummy -->
-			</div>
-			<div class="span4" id="sobrenos">
-			<h3>Sobre Nosotros</h3>
-			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum laoreet rutrum scelerisque. Fusce ut nisi sapien, vel vehicula dui. Maecenas in dui non elit vestibulum interdum eu at nunc. In rhoncus blandit congue.</p>
-			<div class="span4" id="log">
-			  <a href="#" class="btn btn-primary">Registrarme</a>
-			  <a href="#" class="btn btn-info">Login</a>
-			</div>
-			<div class="botonpublicar">
-			 <a href="#" class="btn btn-large btn-success">Publicar</a>
-		    </div>
-			</div>
-			</div>
-			<div class="span2" id="publi2lat">
-				<img class="thumbnail" src="http://placehold.it/160x600" alt="">
-			</div>
-			
+  			<div class="row" id="destacados">
+			<div class="span4"><h3>Comentarios</h3></div>
+  			</div> 
   		</div> 
       </div> 
        <footer>
