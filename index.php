@@ -310,12 +310,17 @@
 					<a href="#" class="btn btn-large btn-success">Publicar</a>
 				  </div>
 				  <div class="temascalientes">
-				  Temas calientes<br>
-				  tema 1 tema 2 tema 3 tema 4
+				  <h4>Temas Calientes</h4>
+				  <ul class="nav nav-pills">
+					<li><a href="#">Tema1</a></li>
+				    <li><a href="#">Tema2</a></li>
+				    <li><a href="#">Tema3</a></li>
+					<li><a href="#">Tema4</a></li>
+				  </ul>
 				  </div>
   		</div> 
 			 <div class="span2" id="publi1lat">
-				<img class="thumbnail" src="http://placehold.it/160x200" alt="">
+				<img class="thumbnail" src="http://placehold.it/160x210" alt="">
 			</div>
 			<div class="span6" id="destacados">
 				<h3>Destacados</h3>
