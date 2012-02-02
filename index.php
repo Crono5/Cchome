@@ -319,17 +319,44 @@
 				  </ul>
 				  </div>
   		</div> 
-			 <div class="span2" id="publi1lat">
-				<img class="thumbnail" src="http://placehold.it/160x210" alt="">
+			<div class="span2" id="publi1lat">
+				<img class="thumbnail" src="http://placehold.it/160x195" alt="">
 			</div>
+			
 			<div class="span6" id="destacados">
 				<h3>Destacados</h3>
-				<div class="span3"><h3>hoy</h3></div> 
-			    <div class="span3"><h3>semana</h3></div>
+				<div class="row">
+				<div class="span3" id="hoy">
+				<h3>Hoy</h3>
+				<ul class="nav nav-pills nav-stacked">
+				 <li><a href="#">Nombre estandar de un Articulo destacado 1</a></li>
+				 <li><a href="#">Nombre estandar de un Articulo destacado 2</a></li>
+				 <li><a href="#">Nombre estandar de un Articulo destacado 3</a></li>
+				 <li><a href="#">Nombre estandar de un Articulo destacado 4</a></li>
+				 <li><a href="#">Nombre estandar de un Articulo destacado 5</a></li>
+				</ul>
+				</div> 
+			    <div class="span3" id="historia">
+				<h3>Semana</h3>
+				<ul class="nav nav-pills nav-stacked">
+				<li><a href="#">Nombre estandar de un Articulo destacado semana</a></li>
+				</ul>
+				<h3>Mes</h3>
+				<ul class="nav nav-pills nav-stacked">
+				<li><a href="#">Nombre estandar de un Articulo destacado mes</a></li>
+				</ul>
+				<h3>Año</h3>
+				<ul class="nav nav-pills nav-stacked">
+				<li><a href="#">Nombre estandar de un Articulo destacado año</a></li>
+				</ul>
+				</div>
+				</div>
 			</div>
 			<div class="span4" id="contenedorsp4">
 			<div class="span4" id="comentarios">
-				Comentarios
+			<h3>Comentarios Destacados</h3>
+			<div class="span" id="comdestac">
+			</div>
 			</div>
 			<div class="span4" id="comentarios">
 				Sobre Nosotros

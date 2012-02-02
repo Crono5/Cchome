@@ -64,7 +64,7 @@ border-width:1px;
 
 }
 #unete{
-height:200px;
+height:185px;
 background-color:rgb(245,245,245);
 -webkit-border-radius: 5px;
 -moz-border-radius: 5px;
@@ -111,17 +111,38 @@ width:150px;
 height:25px;
 }
 #destacados{
-height:200px;
-background-color:rgb(245,245,245);;
+height:310px;
+background-color:rgb(245,245,245);
 -webkit-border-radius: 5px;
 -moz-border-radius: 5px;
 border-radius: 5px;
 margin-top:10px;
-
+}
+#destacados h3{
+text-align: center; 
+display:block; 
+margin:0px;}
+#hoy{
+height:270px;
+background-color:rgb(249,249,249);
+-webkit-border-radius: 5px;
+-moz-border-radius: 5px;
+border-radius: 5px;
+position:relative;
+left:5px;
+}
+#historia{
+height:270px;
+background-color:rgb(249,249,249);
+-webkit-border-radius: 5px;
+-moz-border-radius: 5px;
+border-radius: 5px;
+position:relative;
+right:5px;
 }
 #comentarios{
 height:250px;
-background-color:rgb(245,245,245);;
+background-color:rgb(245,245,245);
 -webkit-border-radius: 5px;
 -moz-border-radius: 5px;
 border-radius: 5px;
