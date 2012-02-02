@@ -61,7 +61,6 @@ border-top-style:solid;
 -border-bottom-style:solid;
 border-color: rgb(206,209,215);
 border-width:1px;
-
 }
 #unete{
 height:185px;
@@ -141,11 +140,49 @@ position:relative;
 right:5px;
 }
 #comentarios{
-height:250px;
+height:290px;
 background-color:rgb(245,245,245);
 -webkit-border-radius: 5px;
 -moz-border-radius: 5px;
 border-radius: 5px;
 margin-top:10px;
 margin-left:0px;
+}
+#comentarios h3{
+text-align: center; 
+display:block; 
+margin:5px;
+}
+#comdestac p{
+border-top-style:solid;
+-border-bottom-style:solid;
+border-color: rgb(206,209,215);
+border-width:1px;
+margin-right:5px;
+}
+#publi2lat{
+position:relative;
+left:-15px;
+top:10px;
+}
+#sobrenos{
+height:235px;
+background-color:rgb(245,245,245);
+-webkit-border-radius: 5px;
+-moz-border-radius: 5px;
+border-radius: 5px;
+margin-top:10px;
+margin-left:0px;
+}
+#sobrenos h3{
+text-align: center; 
+display:block; 
+margin:5px;
+}
+#sobrenos p{
+margin:5px 2px;
+}
+#log{
+position:relative; 
+left:55px;
 }

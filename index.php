@@ -355,14 +355,46 @@
 			<div class="span4" id="contenedorsp4">
 			<div class="span4" id="comentarios">
 			<h3>Comentarios Destacados</h3>
-			<div class="span" id="comdestac">
+			<!--3comentarios dummy -->
+			<div class="row" id="comdestac">
+		      <div class="span1" >
+			  <img class="thumbnail" src="http://placehold.it/50x50" alt="">
+			  </div>
+			  <div class="span3">
+			  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum laoreet rutrum scelerisque. </p>
+			  </div>
+			</div>
+			<div class="row" id="comdestac">
+		      <div class="span1" >
+			  <img class="thumbnail" src="http://placehold.it/50x50" alt="">
+			  </div>
+			  <div class="span3">
+			  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum laoreet rutrum scelerisque. </p>
+			  </div>
+			</div>
+			<div class="row" id="comdestac">
+		      <div class="span1" >
+			  <img class="thumbnail" src="http://placehold.it/50x50" alt="">
+			  </div>
+			  <div class="span3">
+			  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum laoreet rutrum scelerisque. </p>
+			  </div>
+			</div>
+			<!-- /comentarios dummy -->
+			</div>
+			<div class="span4" id="sobrenos">
+			<h3>Sobre Nosotros</h3>
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum laoreet rutrum scelerisque. Fusce ut nisi sapien, vel vehicula dui. Maecenas in dui non elit vestibulum interdum eu at nunc. In rhoncus blandit congue.</p>
+			<div class="span4" id="log">
+			  <a href="#" class="btn btn-primary">Registrarme</a>
+			  <a href="#" class="btn btn-info">Login</a>
+			</div>
+			<div class="botonpublicar">
+			 <a href="#" class="btn btn-large btn-success">Publicar</a>
+		    </div>
 			</div>
 			</div>
-			<div class="span4" id="comentarios">
-				Sobre Nosotros
-			</div>
-			</div>
-			<div class="span2" id="publi1lat">
+			<div class="span2" id="publi2lat">
 				<img class="thumbnail" src="http://placehold.it/160x600" alt="">
 			</div>
 			
