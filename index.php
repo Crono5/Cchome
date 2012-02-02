@@ -319,8 +319,16 @@
 			</div>
 			<div class="span6" id="destacados">
 				<h3>Destacados</h3>
-				<div class="span3"><h3>hoy</h3></div> 
-			    <div class="span3"><h3>semana</h3></div>
+				<div class="span3">
+				<h3>hoy</h3>
+				
+			    </div> 
+			    <div class="span3">
+				<h3>semana</h3>
+				<h3>mes</h3>
+				<h3>año</h3>
+				<a>ver mas...</a>
+				</div>
 			</div>
 			<div class="span4" id="contenedorsp4">
 			<div class="span4" id="comentarios">
