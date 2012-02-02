@@ -56,12 +56,45 @@ background: #ecedef;
 	margin-left: -30px;
 	width: 320px;
 }
+#postHome{
+border-top-style:solid;
+-border-bottom-style:solid;
+border-color: rgb(206,209,215);
+border-width:1px;
+
+}
 #unete{
 height:200px;
-background-color: white;
+background-color:rgb(245,245,245);
+
 -webkit-border-radius: 5px;
 -moz-border-radius: 5px;
 border-radius: 5px;
+}
+#unete h3{
+text-align: center
+}
+.botonessocial{
+height:40px;
+padding: 0px 5px;
+margin-top:10px;
+}
+.botonfb{
+margin-left:10px;
+float:left;
+background-color:navy;
+-webkit-border-radius: 5px;
+-moz-border-radius: 5px;
+border-radius: 5px;
+color:white;
+}
+.botontw{
+float:right;
+width:140px;
+margin-right:10px;
+}
+.botonpublicar a{
+margin: 5px 60px;
 }
 #publi1lat{
 position:relative;
@@ -73,7 +106,7 @@ height:25px;
 }
 #destacados{
 height:200px;
-background-color: white;
+background-color:rgb(245,245,245);;
 -webkit-border-radius: 5px;
 -moz-border-radius: 5px;
 border-radius: 5px;
@@ -82,7 +115,7 @@ margin-top:10px;
 }
 #comentarios{
 height:250px;
-background-color: white;
+background-color:rgb(245,245,245);;
 -webkit-border-radius: 5px;
 -moz-border-radius: 5px;
 border-radius: 5px;
