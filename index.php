@@ -265,7 +265,8 @@
 			    <div class="span3"><h3>semana</h3></div>
 			</div>
   			<div class="row widgetBloqueHome" id="destacados">
-			<div class="span4"><h3>Comentarios</h3></div>
+			<div class="span4"><h3>Comentarios</h3>
+			<?php include '_/inc/comentarios.php'; ?>
   			</div> 
   		</div> 
       </div> 
