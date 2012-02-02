@@ -1,5 +1,5 @@
 #contenedorPrincipal {
-background-color: #920095;
+background-color: #CE0071;
 -webkit-border-radius: 10px;
 -moz-border-radius: 10px;
 border-radius: 10px;
@@ -55,4 +55,37 @@ background: #ecedef;
 #infoPostH {
 	margin-left: -30px;
 	width: 320px;
+}
+#unete{
+height:200px;
+background-color: white;
+-webkit-border-radius: 5px;
+-moz-border-radius: 5px;
+border-radius: 5px;
+}
+#publi1lat{
+position:relative;
+left:-15px;
+}
+.btn-large {
+width:150px;
+height:25px;
+}
+#destacados{
+height:200px;
+background-color: white;
+-webkit-border-radius: 5px;
+-moz-border-radius: 5px;
+border-radius: 5px;
+margin-top:10px;
+
+}
+#comentarios{
+height:250px;
+background-color: white;
+-webkit-border-radius: 5px;
+-moz-border-radius: 5px;
+border-radius: 5px;
+margin-top:10px;
+margin-left:0px;
 }
