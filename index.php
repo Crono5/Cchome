@@ -22,26 +22,25 @@
 	<div id="contenedorPrincipal"> 
 		<div class="container" > 
 			<div class="row"> 
-				<div class="span4" id="logo"></div> 
+				<div class="span4" id="logo"><img src="http://dummyimage.com/250x90&text=Acá va el logo" alt="" /></div> 
 				<div class="span8" id="headerDer"> 
-					<img src="http://placehold.it/560x100"> 
+					<img src="http://placehold.it/670x90"> 
 				</div> 
 			</div> 
 		</div> 
-	<div class="navbar" id="menuUser">
-  <div class="navbar-inner" id="menuUserColor">
-    <div class="container">
-		<ul class="nav"><li><a href="#">Publicar</a></li></ul>
-          <ul class="nav pull-right">
-          	<li><a href="#">Bienvenido <strong>Visitante</strong></a></li>
-            <li class="active"><a href="#">Home</a></li>
-            <li><a href="#">Link</a></li>
-            <li><a href="#">Link</a></li>
-            <li><a href="#">Link</a></li> 
-            <li class="dropdown"></li>
-          </ul>
-			</div>
-  		</div>
+	<div class="row" id="menuUser">
+		<div class="container">
+			<a class="btn btn-info" href="#">Enviar contenido</a>
+			<ul class="nav nav-pills pull-right">
+		  <li class="active">
+		    <a href="#" id="linkMenuUser"> <i class="icon-user icon-white"></i> Cuenta</a>
+		  </li>
+		  <li><a href="#" id="linkMenuUser"> <i class="icon-heart icon-white"></i> Favorito</a></li>
+		  <li><a href="#" id="linkMenuUser"> <i class="icon-envelope icon-white"></i> Inbox</a></li>
+		  <li><a href="#" id="linkMenuUser"> <i class="icon-th icon-white"></i> Galería</a></li>
+		</ul>
+		
+	</div>
 	</div>
   <div class="navbar">
 	  <div class="navbar-inner" id="menuNav">
@@ -54,6 +53,19 @@
 		    <li><a href="#">Ingresar</a></li>
 		    <li><a href="#">Registrarme</a></li>
             </ul>
+            <form class="navbar-search pull-left" action="">
+            <input type="text" class="search-query span2" placeholder="Buscar">
+          </form>
+            <ul class="nav pull-right">
+			  <li class="dropdown">
+			    <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+			          Categorías
+			          <b class="caret"></b>
+			    </a>
+			    <ul class="dropdown-menu">
+			    </ul>
+			  </li>
+			</ul>
 				</div>
   		</div>
 		</div> 
@@ -62,7 +74,9 @@
 			<div class="page-header" id="titulosWidget">
 					<h3>Últimos post <small>últimos post enviados</small></h3>
 			</div>			
-						<?php include '_/inc/postHome.php'; ?>				
+						<?php include '_/inc/postHome.php'; ?>	
+						
+			
   	     	</div>
   		<div class="span6">
   			<div class="row widgetBloqueHome" id="unete">
