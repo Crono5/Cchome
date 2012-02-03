@@ -29,7 +29,7 @@
 			</div> 
 		</div> 
 	<div class="navbar" id="menuUser">
-  <div class="navbar-inner">
+  <div class="navbar-inner" id="menuUserColor">
     <div class="container">
 		<ul class="nav"><li><a href="#">Publicar</a></li></ul>
           <ul class="nav pull-right">
@@ -43,8 +43,8 @@
 			</div>
   		</div>
 	</div>
-  <div class="navbar" id="menuNav">
-	  <div class="navbar-inner">
+  <div class="navbar">
+	  <div class="navbar-inner" id="menuNav">
 	    <div class="container">
            <a class="brand" href="#">Colombia Caliente</a>
 			<ul class="nav">
@@ -66,12 +66,34 @@
   	     	</div>
   		<div class="span6">
   			<div class="row widgetBloqueHome" id="unete">
-  				<div class="span4"><h3>Únete</h3></div>
-  				<div class="span2"><h3>ads</h3></div>
+  				<h2 id="titulosWidgetSidebar">Únete</h2>
+  				<div class="span4">
+  					<h3>Comunidad</h3>
+				<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. </p>
+  				</div>
+  				<div class="span2" id="publi1lat">
+				<img class="thumbnail" src="http://placehold.it/160x195" alt="">
+			</div>
   			</div> 
 			<div class="row widgetBloqueHome" id="destacados">
-				<div class="span3"><h3>hoy</h3></div> 
-			    <div class="span3"><h3>semana</h3></div>
+				<div class="span3">
+					<h3>hoy</h3>
+					<ul>
+					 <li><a href="#">Pellentesque habitant morbi tristique </a></li>
+					 <li><a href="#">Pellentesque habitant morbi tristique </a></li>
+					 <li><a href="#">Pellentesque habitant morbi tristique </a></li>
+					 <li><a href="#">Pellentesque habitant morbi tristique </a></li>
+					 <li><a href="#">Pellentesque habitant morbi tristique </a></li>
+					</ul>
+				</div> 
+			    <div class="span3">
+			    	<h3>Semana</h3>
+			    	<ul><li><a href="#">Pellentesque habitant morbi tristique</a></li></ul>
+			    	<h3>semana</h3>
+			    	<ul><li><a href="#">Pellentesque habitant morbi tristique</a></li></ul>
+			    	<h3>semana</h3>
+			    	<ul><li><a href="#">Pellentesque habitant morbi tristique</a></li></ul>
+			    	</div>
 			</div>
   			<div class="row widgetBloqueHome" id="destacados">
 			<div class="span4"><h3>Comentarios</h3>
