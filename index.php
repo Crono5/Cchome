@@ -68,12 +68,22 @@
   			<div class="row widgetBloqueHome" id="unete">
   				<h2 id="titulosWidgetSidebar">Únete</h2>
   				<div class="span4">
-  					<h3>Comunidad</h3>
+  				<h3>Comunidad</h3>
 				<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. </p>
-  				</div>
+  				<div class="botonfb">
+				Facebook boton
+				</div>
+				<div class="botontw">
+				<a href="https://twitter.com/masajistas" class="twitter-follow-button" data-show-count="false" data-lang="es">Segui @masajistas</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+				</div>
+				<div class="botonpublicar">
+				<a href="#" class="btn btn-large btn-success">Publicar</a>
+				</div>
+				</div>
   				<div class="span2" id="publi1lat">
 				<img class="thumbnail" src="http://placehold.it/160x195" alt="">
-			</div>
+			    </div>
   			</div> 
 			<div class="row widgetBloqueHome" id="destacados">
 				<div class="span3">
