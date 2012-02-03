@@ -80,9 +80,12 @@ margin-left: -30px;
 #unete h3{
 text-align: center;
 }
-#titulosWidgetSidebar{
+#unete h2{
 position:relative;
-left:135px;
+left:-70px;
+}
+#titulosWidgetSidebar{
+text-align: center;
 }
 .botonessocial{
 height:30px;
@@ -105,12 +108,6 @@ margin-right:10px;
 }
 .botonpublicar a{
 margin: 5px 60px;
-}
-.temascalientes{
- padding:10px;
-}
-.temascalientes h4{
-text-align: center
 }
 #publi1lat{
 position:relative;

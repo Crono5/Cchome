@@ -86,8 +86,9 @@
 			    </div>
   			</div> 
 			<div class="row widgetBloqueHome" id="destacados">
+				<h2 id="titulosWidgetSidebar">Destacados</h2>
 				<div class="span3">
-					<h3>hoy</h3>
+					<h3>Hoy</h3>
 					<ul>
 					 <li><a href="#">Pellentesque habitant morbi tristique </a></li>
 					 <li><a href="#">Pellentesque habitant morbi tristique </a></li>
@@ -99,9 +100,9 @@
 			    <div class="span3">
 			    	<h3>Semana</h3>
 			    	<ul><li><a href="#">Pellentesque habitant morbi tristique</a></li></ul>
-			    	<h3>semana</h3>
+			    	<h3>Mes</h3>
 			    	<ul><li><a href="#">Pellentesque habitant morbi tristique</a></li></ul>
-			    	<h3>semana</h3>
+			    	<h3>Año</h3>
 			    	<ul><li><a href="#">Pellentesque habitant morbi tristique</a></li></ul>
 			    	</div>
 			</div>
