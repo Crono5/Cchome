@@ -120,6 +120,9 @@
 			    	<ul><li><a href="#">Pellentesque habitant morbi tristique</a></li></ul>
 			    	</div>
 			</div>
+			<div class="gridwidgets">
+			<div class="row">
+			<div class="span6">
   			<div class="row widgetBloqueHome" id="comentarios">
 			<h2 id="titulosWidgetSidebar">Comentarios</h2>
 			<div class="span4">
@@ -137,11 +140,16 @@
 			 <a href="#" class="btn btn-large btn-success">Publicar</a>
 		    </div>
 			</div> 
+			</div>
 			<div class="row widgetBloqueHome" id="adsside" >
 			<div class="span2">
 			<img class="thumbnail" src="http://placehold.it/160x600" alt="">
   			</div> 
 			</div> 
+			</div>
+			</div>
+			<img class="thumbnail" src="http://placehold.it/160x600" alt="">
+			
       </div> 
        <footer>
 		<div class="navbar">
