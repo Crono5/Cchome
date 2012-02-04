@@ -130,7 +130,7 @@
 			</div> 
 			<div class="row widgetBloqueHome" id="sobrenos">
 			<h2 id="titulosWidgetSidebar">Sobre Nosotros</h2>
-			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum laoreet rutrum scelerisque.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum laoreet rutrum scelerisque.  Fusce ut nisi sapien, vel vehicula dui. Maecenas in dui non elit vestibulum interdum eu at nunc. In rhoncus blandit congue.</p>
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum laoreet rutrum scelerisque.Lorem ipsum dolor sit amet.</p>
 			<div id="log">
 			  <a href="#" class="btn btn-primary">Registrarme</a>
 			  <a href="#" class="btn btn-info">Login</a>
@@ -141,11 +141,26 @@
 			</div> 
 			</div>
 			<div class="span2" id="adsidelong">
-			<img class="thumbnail" src="http://placehold.it/160x600" alt="">
+			<img class="thumbnail" src="http://placehold.it/160x410" alt="">
 			</div> 
 			</div>
 			</div>
 			<!-- /widgets mobile -->
+			
+			<!-- posicionador adsense lateral -->
+			<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+			<script type="text/javascript">
+			window.onload = function( ){
+					$( window ).scroll( function( ){ 
+						var scroller_object = $( "#gridwidgets" );
+						if( document.documentElement.scrollTop >= 820 || window.pageYOffset >= 820 )
+						{scroller_object.css( { position: "fixed", top: "0px" } );}
+						else if( document.documentElement.scrollTop < 820 || window.pageYOffset < 820 )
+						{scroller_object.css( { position: "relative", top: "10px" } );}
+					} );
+				}
+			</script>
+			<!-- /posicionador adsense lateral -->
 			
       </div> 
        <footer>

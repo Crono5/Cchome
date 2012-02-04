@@ -167,7 +167,7 @@ right:5px;
 margin:0px;
 }
 #comentarios{
-height:310px;
+height:210px;
 width: 305px;
 margin-left: -30px;
 background-color: #D8D8D8;
@@ -177,13 +177,14 @@ border-radius: 5px;
 margin-top:10px;
 }
 #comdestac p{
-height:80px;
+height:45px;
 border-top-style:solid;
 -border-bottom-style:solid;
 border-color: rgb(206,209,215);
-border-width:1px;
+border-width:2px;
 margin-right:5px;
-width:220px;
+margin-left:5px;
+width:300px;
 }
 #gridwidgets{
 width:480px;
@@ -201,14 +202,14 @@ margin-left:-12px;
 margin-top:10px;
 }
 #sobrenos{
-height:270px;
+height:200px;
 width: 305px;
 margin-left: -30px;
 background-color: #D8D8D8;
 -webkit-border-radius: 5px;
 -moz-border-radius: 5px;
 border-radius: 5px;
-margin-top:30px;
+margin-top:10px;
 }
 #sobrenos p{
 padding:5px;
