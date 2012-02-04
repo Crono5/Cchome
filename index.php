@@ -91,8 +91,8 @@
 				<a href="https://twitter.com/masajistas" class="twitter-follow-button" data-show-count="false" data-lang="es">Segui @masajistas</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 				</div>
-				<div class="botonpublicar">
-				<a href="#" class="btn btn-large btn-success">Publicar</a>
+				<div class="botonpublicar" >
+				<a id="btpubli" href="#" class="btn btn-large btn-success">Publicar</a>
 				</div>
 				</div>
   				<div class="span2" id="publi1lat">

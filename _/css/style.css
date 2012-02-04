@@ -1,5 +1,5 @@
 #contenedorPrincipal {
-background-color: #6E6E6E;
+background-color: #a531a9;
 -webkit-border-radius: 10px;
 -moz-border-radius: 10px;
 border-radius: 10px;
@@ -88,7 +88,7 @@ border-bottom: 1px solid #ccc;
 }
 #unete{
 height: 230px;
-background-color: #D8D8D8;
+background-color: #dee8e1;
 -webkit-border-radius: 5px;
 -moz-border-radius: 5px;
 border-radius: 5px;
@@ -227,15 +227,25 @@ width: 50px;
 #datosPostFecha {
 	width: 80px;
 }
+#btpubli{
+background-repeat: repeat-x;
+background-image: -khtml-gradient(linear, left top, left bottom, from(#931c74), to(#711762));
+background-image: -moz-linear-gradient(top, #931c74, #711762);
+background-image: -ms-linear-gradient(top, #931c74, #711762);
+background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #EE5F5B), color-stop(100%, #C43C35));
+background-image: -webkit-linear-gradient(top, #931c74, #711762);
+background-image: -o-linear-gradient(top, #931c74, #711762);
+background-image: linear-gradient(top, #931c74, #711762);
+}
 #titulosWidgetSidebar {
 background-repeat: repeat-x;
-background-image: -khtml-gradient(linear, left top, left bottom, from(#EE5F5B), to(#C43C35));
-background-image: -moz-linear-gradient(top, #EE5F5B, #C43C35);
-background-image: -ms-linear-gradient(top, #EE5F5B, #C43C35);
+background-image: -khtml-gradient(linear, left top, left bottom, from(#931c74), to(#711762));
+background-image: -moz-linear-gradient(top, #931c74, #711762);
+background-image: -ms-linear-gradient(top, #931c74, #711762);
 background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #EE5F5B), color-stop(100%, #C43C35));
-background-image: -webkit-linear-gradient(top, #EE5F5B, #C43C35);
-background-image: -o-linear-gradient(top, #EE5F5B, #C43C35);
-background-image: linear-gradient(top, #EE5F5B, #C43C35);
+background-image: -webkit-linear-gradient(top, #931c74, #711762);
+background-image: -o-linear-gradient(top, #931c74, #711762);
+background-image: linear-gradient(top, #931c74, #711762);
 -webkit-border-top-left-radius: 5px;
 -webkit-border-top-right-radius: 5px;
 -moz-border-radius-topleft: 5px;
