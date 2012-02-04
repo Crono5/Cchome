@@ -136,7 +136,7 @@
 			  <a href="#" class="btn btn-info">Login</a>
 			</div>
 			<div class="botonpublicar">
-			 <a href="#" class="btn btn-large btn-success">Publicar</a>
+			  <a href="#" class="btn btn-large btn-success">Publicar</a>
 		    </div>
 			</div> 
 			</div>
@@ -161,6 +161,19 @@
 				}
 			</script>
 			<!-- /posicionador adsense lateral -->
+			<!-- posicionador barra home -->
+			<script type="text/javascript">
+			window.onload = function( ){
+					$( window ).scroll( function( ){ 
+						var scroller_object = $( "#menuNav" );
+						if( document.documentElement.scrollTop >= 200 || window.pageYOffset >= 200 )
+						{scroller_object.css( { position: "fixed", top: "0px" } );}
+						else if( document.documentElement.scrollTop < 200 || window.pageYOffset < 200 )
+						{scroller_object.css( { position: "relative", top: "10px" } );}
+					} );
+				}
+			</script>
+			<!-- /posicionador barra home -->
 			
       </div> 
        <footer>

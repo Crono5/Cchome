@@ -48,6 +48,8 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#5BC0DE', endC
 -webkit-border-radius: 0px;
 -moz-border-radius: 0px;
 border-radius: 0px;
+position:relative;
+z-index:1000;
 }
 #contenedorHome {
 background-color: #ecedef;
