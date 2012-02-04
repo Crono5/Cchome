@@ -120,19 +120,18 @@
 			    	<ul><li><a href="#">Pellentesque habitant morbi tristique</a></li></ul>
 			    	</div>
 			</div>
-			<div class="gridwidgets">
+			<!-- widgets mobile -->
 			<div class="row">
-			<div class="span6">
+			<div class="span6" id="gridwidgets">
+			<div class="span4" id="widgetsside">
   			<div class="row widgetBloqueHome" id="comentarios">
 			<h2 id="titulosWidgetSidebar">Comentarios</h2>
-			<div class="span4">
 			<?php include '_/inc/comentariosHome.php'; ?>
-  			</div> 
 			</div> 
 			<div class="row widgetBloqueHome" id="sobrenos">
 			<h2 id="titulosWidgetSidebar">Sobre Nosotros</h2>
-			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum laoreet rutrum scelerisque. Fusce ut nisi sapien, vel vehicula dui. Maecenas in dui non elit vestibulum interdum eu at nunc. In rhoncus blandit congue.</p>
-			<div class="span4" id="log">
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum laoreet rutrum scelerisque.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum laoreet rutrum scelerisque.  Fusce ut nisi sapien, vel vehicula dui. Maecenas in dui non elit vestibulum interdum eu at nunc. In rhoncus blandit congue.</p>
+			<div id="log">
 			  <a href="#" class="btn btn-primary">Registrarme</a>
 			  <a href="#" class="btn btn-info">Login</a>
 			</div>
@@ -141,14 +140,12 @@
 		    </div>
 			</div> 
 			</div>
-			<div class="row widgetBloqueHome" id="adsside" >
-			<div class="span2">
+			<div class="span2" id="adsidelong">
 			<img class="thumbnail" src="http://placehold.it/160x600" alt="">
-  			</div> 
 			</div> 
 			</div>
 			</div>
-			<img class="thumbnail" src="http://placehold.it/160x600" alt="">
+			<!-- /widgets mobile -->
 			
       </div> 
        <footer>

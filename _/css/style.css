@@ -163,9 +163,12 @@ border-radius: 5px;
 position:relative;
 right:5px;
 }
+#gridwidgets{
+margin:0px;
+}
 #comentarios{
 height:310px;
-width: 315px;
+width: 305px;
 margin-left: -30px;
 background-color: #D8D8D8;
 -webkit-border-radius: 5px;
@@ -180,32 +183,40 @@ border-top-style:solid;
 border-color: rgb(206,209,215);
 border-width:1px;
 margin-right:5px;
-width:210px;
+width:220px;
 }
-#adsside{
-position:relative;
-left:310px;
-top:-550px;
+#gridwidgets{
+width:480px;
+margin-bottom:10px;
+}
+#widgetsside{
+padding:0px;
+width:295px;
+}
+#adsidelong{
+margin:0px;
+padding:0px;
+width:160px;
+margin-left:-12px;
+margin-top:10px;
 }
 #sobrenos{
-height:240px;
-width: 315px;
+height:270px;
+width: 305px;
 margin-left: -30px;
 background-color: #D8D8D8;
 -webkit-border-radius: 5px;
 -moz-border-radius: 5px;
 border-radius: 5px;
-margin-top:10px;
+margin-top:30px;
 }
 #sobrenos p{
 padding:5px;
-}
-#sobrenos p{
 margin:5px 2px;
 }
 #log{
 position:relative; 
-left:55px;
+left:75px;
 }
 #datosPost {
 width: 50px;
