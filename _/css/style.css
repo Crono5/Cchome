@@ -137,7 +137,7 @@ height:25px;
 }
 #destacados{
 height:280px;
-background-color: #D8D8D8;
+background-color: #dee8e1;
 -webkit-border-radius: 5px;
 -moz-border-radius: 5px;
 border-radius: 5px;
@@ -180,12 +180,6 @@ margin-top:10px;
 }
 #comdestac p{
 height:45px;
-border-top-style:solid;
--border-bottom-style:solid;
-border-color: rgb(206,209,215);
-border-width:2px;
-margin-right:5px;
-margin-left:5px;
 width:300px;
 }
 #gridwidgets{
@@ -260,4 +254,20 @@ text-shadow: 2px 1px 1px #636363;
 	line-height: 20px;
 margin-bottom: 5px;
 margin-top: 10px;
+}
+#comdestac {
+	display: block;
+margin-left: -10px;
+border-bottom: #cccccc 1px solid;
+width: 290px;
+border-top: #fff 1px solid;
+padding-bottom: 5px;
+padding-top: 5px;
+}
+#comdestacCS {
+margin-top: 5px;
+padding-bottom: 5px;
+border-bottom: 1px solid #F2F2F2;
+width: 290px;
+margin-left: -10px;
 }
