@@ -1,76 +1,5 @@
-<!DOCTYPE html> 
-<html lang="es">  
-  <head> 
-    <meta charset="utf-8"> 
-    <title>Cchome.net</title>  
- 
-    <!-- Le HTML5 shim, for IE6-8 support of HTML elements --> 
-    <!--[if lt IE 9]>
-      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]--> 
- 
-	<link rel="stylesheet" href="_/css/bootstrap.css">
-	<link rel="stylesheet" href="_/css/style.css">
-     
-    <link rel="shortcut icon" href="images/favicon.ico"> 
-    <link rel="apple-touch-icon" href="images/apple-touch-icon.png"> 
-    <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png"> 
-    <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png"> 
-  </head> 
- 
-  <body id="bgNuevo"> 
-	<div id="contenedorPrincipal"> 
-		<div class="container" > 
-			<div class="row"> 
-				<div class="span4" id="logo"><img src="http://dummyimage.com/250x90&text=Acá va el logo" alt="" /></div> 
-				<div class="span8" id="headerDer"> 
-					<img src="http://placehold.it/670x90"> 
-				</div> 
-			</div> 
-		</div> 
-	<div class="row" id="menuUser">
-		<div class="container">
-			<a class="btn btn-info" href="#">Enviar contenido</a>
-			<ul class="nav nav-pills pull-right">
-		  <li class="active">
-		    <a href="#" id="linkMenuUser"> <i class="icon-user icon-white"></i> Cuenta</a>
-		  </li>
-		  <li><a href="#" id="linkMenuUser"> <i class="icon-heart icon-white"></i> Favorito</a></li>
-		  <li><a href="#" id="linkMenuUser"> <i class="icon-envelope icon-white"></i> Inbox</a></li>
-		  <li><a href="#" id="linkMenuUser"> <i class="icon-th icon-white"></i> Galería</a></li>
-		</ul>
-		
-	</div>
-	</div>
-  <div class="navbar">
-	  <div class="navbar-inner" id="menuNav">
-	    <div class="container">
-           <a class="brand" href="#">Colombia Caliente</a>
-			<ul class="nav">
-            <li><a href="#">Buscador</a></li>
-            <li><a href="#">Contactos</a></li>
-            <li><a href="#">Chat</a></li>
-		    <li><a href="#">Ingresar</a></li>
-		    <li><a href="#">Registrarme</a></li>
-            </ul>
-            <form class="navbar-search pull-left" action="">
-            <input type="text" class="search-query span2" placeholder="Buscar">
-          </form>
-            <ul class="nav pull-right">
-			  <li class="dropdown">
-			    <a href="#" class="dropdown-toggle" data-toggle="dropdown">
-			          Categorías
-			          <b class="caret"></b>
-			    </a>
-			    <ul class="dropdown-menu">
-			    </ul>
-			  </li>
-			</ul>
-				</div>
-  		</div>
-		</div> 
-		<div class="row" id="contenedorHome">
-			<div class="span6">
+<?php include 'header.php';?>
+		<div class="span6">
 			<div class="page-header" id="titulosWidget">
 					<h3>Últimos post <small>últimos post enviados</small></h3>
 			</div>			
@@ -176,24 +105,4 @@
 			<!-- /posicionador barra home -->
 			
       </div> 
-       <footer>
-		<div class="navbar">
-				<div class="container">
-				<ul class="nav">
-					<li><a class="active" href="#">Protocolo</a></li>
-					<li><a href="#">Politicas de Privacidad</a></li>
-					<li><a href="#">Concursos y premios</a></li>
-					<li><a href="#">Ayuda</a></li>
-					<li><a href="#">Publicidad de nuestro Sitio</a></li>
-					<li ><a href="#">Denuncias</a></li>
-					<li ><a href="#">Mapa del sitio</a></li>
-				</ul>
-		  </div>
-		</div>	
-      </footer>
-      </div> <!-- /contenedorHome -->  
-   <!-- /container --> 
-   
- </div> 
-  </body> 
-</html> 
+      <?php include 'footer.php';?>
