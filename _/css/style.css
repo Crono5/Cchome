@@ -196,6 +196,9 @@ padding:0px;
 width:160px;
 margin-left:-12px;
 margin-top:10px;
+-webkit-border-radius: 5px;
+-moz-border-radius: 5px;
+border-radius: 5px;
 }
 #sobrenos{
 height:200px;

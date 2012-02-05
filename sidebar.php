@@ -71,7 +71,7 @@
 			</div> 
 			</div>
 			<div class="span2" id="adsidelong">
-			<img class="thumbnail" src="http://placehold.it/160x400" alt="">
+			<img src="_/img/ads/ads160x400cc.png"> 
 			</div> 
 			</div>
 			</div>
