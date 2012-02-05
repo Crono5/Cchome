@@ -11,11 +11,12 @@
  
 	<link rel="stylesheet" href="_/css/bootstrap.css">
 	<link rel="stylesheet" href="_/css/style.css">
-     
     <link rel="shortcut icon" href="images/favicon.ico"> 
     <link rel="apple-touch-icon" href="images/apple-touch-icon.png"> 
     <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png"> 
     <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png"> 
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+    <script type="text/javascript" src="_/js/scripts.js"></script>
   </head> 
  
   <body id="bgNuevo"> 
@@ -24,7 +25,7 @@
 			<div class="row"> 
 				<div class="span4" id="logo"><img src="http://dummyimage.com/250x90&text=Acá va el logo" alt="" /></div> 
 				<div class="span8" id="headerDer"> 
-					<img src="http://placehold.it/670x90"> 
+					<img src="_/img/ads/ads670x90cc.png"> 
 				</div> 
 			</div> 
 		</div> 

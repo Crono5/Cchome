@@ -87,7 +87,7 @@ border-top: 2px solid #fff;
 border-bottom: 1px solid #ccc;
 }
 #unete{
-height: 230px;
+height: 260px;
 background-color: #dee8e1;
 -webkit-border-radius: 5px;
 -moz-border-radius: 5px;
@@ -158,7 +158,7 @@ left:5px;
 }
 #historia{
 height:270px;
-background-color:rgb(249,249,249);
+background-color:#dee8e1;
 -webkit-border-radius: 5px;
 -moz-border-radius: 5px;
 border-radius: 5px;
@@ -172,7 +172,7 @@ margin:0px;
 height:210px;
 width: 305px;
 margin-left: -30px;
-background-color: #D8D8D8;
+background-color: #dee8e1;
 -webkit-border-radius: 5px;
 -moz-border-radius: 5px;
 border-radius: 5px;
@@ -201,7 +201,7 @@ margin-top:10px;
 height:200px;
 width: 305px;
 margin-left: -30px;
-background-color: #D8D8D8;
+background-color: #dee8e1;
 -webkit-border-radius: 5px;
 -moz-border-radius: 5px;
 border-radius: 5px;
@@ -270,4 +270,10 @@ padding-bottom: 5px;
 border-bottom: 1px solid #F2F2F2;
 width: 290px;
 margin-left: -10px;
+}
+.twitter-follow-button{
+margin-left:70px;
+}
+.fb-like{
+height:25px;
 }
