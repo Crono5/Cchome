@@ -136,7 +136,7 @@ width:150px;
 height:25px;
 }
 #destacados{
-height:280px;
+height: 670px;
 background-color: #dee8e1;
 -webkit-border-radius: 5px;
 -moz-border-radius: 5px;
@@ -279,4 +279,83 @@ margin-left:70px;
 }
 .fb-like{
 height:25px;
+}
+#fbBtnHome {
+	width: 75px;
+	border-right: 1px #fff solid;
+	height: 63px;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+#twBtnHome {
+	border-left: 1px solid #ccc;
+	margin-left: 0px;
+	padding-left: 15px;
+	width: 80px;
+	border-right: 1px solid #fff;
+}
+#gpBtnHome {
+	margin-left: 0px;
+	width: 90px;
+	padding-left: 15px;
+	border-left: 1px solid #ccc;
+}
+#mensajePublicar {
+	
+}
+#registradosData {
+	width: 90px;
+}
+#infoHomeStats {
+	margin-top: 20px;
+}
+#registradosOnline {
+	width: 70px;
+}
+#h4Home {
+	font-size: 28px;
+color: #333333;
+text-shadow: -1px 1px 1px #FFFFFF;
+}
+#usuarioRegistrado {
+	margin-left: 20px;
+margin-top: 15px;
+text-align: center;
+}
+#ulUsuarioRegistrado {
+margin-left: 36px;
+margin-top: 15px;
+text-align: center;
+}
+#rankGenenral {
+	margin: 20px 20px 10px 20px;
+}
+.table-striped tbody tr:nth-child(odd) td, .table-striped tbody tr:nth-child(odd) th  {
+	background-color: #CFE1D4;
+}
+#userInfo{
+	-webkit-border-radius: 3px;
+-moz-border-radius: 3px;
+border-radius: 3px;
+background-color: #CFE1D4;
+margin-left: 30px;
+padding-bottom: 10px;
+padding-right: 10px;
+width: 210px;
+padding-top: 5px;
+border-top: #B5CFBB 1px solid;
+border-bottom: 1px solid #A6C6AE;
+}
+#userPost {
+-webkit-border-radius: 3px;
+-moz-border-radius: 3px;
+border-radius: 3px;
+background-color: #CFE1D4;
+margin-left: 10px;
+padding-bottom: 10px;
+padding-right: 20px;
+width: 210px;
+padding-top: 5px;
+border-top: #B5CFBB 1px solid;
+border-bottom: 1px solid #A6C6AE;
 }
