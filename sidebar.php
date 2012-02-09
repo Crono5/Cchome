@@ -40,7 +40,7 @@
 				</div>
 				<div class="row">
 				<div class="span4" id="mensajePublicar">
-				<p><a class="btn" href="#"><i class="icon-plus"></i> Publicar</a></p>
+				<p><a class="btn" id="btnpubli" href="#"><i class="icon-plus"></i> Publicar</a></p>
 				</div>
 				</div>
 				</div>

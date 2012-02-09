@@ -6,9 +6,9 @@
 			{scroll_menu.css( { position: "fixed", top: "0px" } );}
 			else if( document.documentElement.scrollTop < 135 || window.pageYOffset < 135 )
 			{scroll_menu.css( { position: "relative", top: "10px" } );}
-			if( document.documentElement.scrollTop >= 800 || window.pageYOffset >= 800 )
+			if( document.documentElement.scrollTop >= 1070 || window.pageYOffset >= 1070 )
 			{scroll_widgets.css( { position: "fixed", top: "40px" } );}
-			else if( document.documentElement.scrollTop < 800 || window.pageYOffset < 800 )
+			else if( document.documentElement.scrollTop < 1070 || window.pageYOffset < 1070 )
 			{scroll_widgets.css( { position: "relative", top: "10px" } );}
 		} );
 }
