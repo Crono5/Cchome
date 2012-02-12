@@ -11,14 +11,15 @@
  
 	<link rel="stylesheet" href="_/css/bootstrap.css">
 	<link rel="stylesheet" href="_/css/style.css">
-	<link rel="stylesheet" href="_/js/bootstrap-dropdown.js">
-    <link rel="stylesheet" href="_/js/jquery-1.7.1.min.js">
+	<!--<link rel="stylesheet" href="_/js/bootstrap-dropdown.js">
+    <link rel="stylesheet" href="_/js/jquery-1.7.1.min.js">-->
     <link rel="shortcut icon" href="images/favicon.ico"> 
     <link rel="apple-touch-icon" href="images/apple-touch-icon.png"> 
     <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png"> 
     <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png"> 
-	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+	<script type="text/javascript" src="_/js/jquery-1.7.1.min.js"></script>
     <script type="text/javascript" src="_/js/scripts.js"></script>
+	<script type="text/javascript" src="_/js/bootstrap.js"></script>
   </head> 
  
   <body id="bgNuevo"> 
@@ -57,6 +58,7 @@
 	</div>
 	<div class="topbar" data-dropdown="dropdown" >
   <div class="navbar">
+  
 	  <div class="navbar-inner" id="menuNav">
 	    <div class="container">
            <a class="brand" href="#">Colombia Caliente</a>
@@ -66,19 +68,26 @@
             <li><a href="#">Chat</a></li>
 		    <li><a href="#">Ingresar</a></li>
 		    <li><a href="#">Registrarme</a></li>
-            <li class="dropdown">
-              <a href="#menu1" class="dropdown-toggle">Dropdown</a>
-              <ul id="menu1" class="dropdown-menu">
-                <li><a href="#">Secondary link</a></li>
-                <li><a href="#">Something else here</a></li>
-                <li class="divider"></li>
-                <li><a href="#">Another link</a></li>
-              </ul>
-            </li>
-            </ul>
-            <form class="navbar-search pull-left" action="">
+			<form class="navbar-search pull-right" action="">
             <input type="text" class="search-query span2" placeholder="Buscar">
-          </form>
+            </form>
+			</ul>
+			<li class="pull-right">
+			<ul class="nav">
+                  <li id="fat-menu" class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Categorias<b class="caret"></b></a>
+                    <ul class="dropdown-menu">
+                      <li><a href="#">Categoria1</a></li>
+                      <li><a href="#">Categoria2</a></li>
+                      <li><a href="#">Categoria3</a></li>
+                      <li class="divider"></li>
+                      <li><a href="#">Ver todas</a></li>
+                    </ul>
+                  </li>
+            </ul>
+			</li>
+            </ul>
+            
              
 				</div>
 				</div>
