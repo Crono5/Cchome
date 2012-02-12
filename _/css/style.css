@@ -85,6 +85,7 @@ width: 450px;
 margin-left: -10px;
 border-top: 2px solid #fff;
 border-bottom: 1px solid #ccc;
+min-height: 160px;
 }
 #unete{
 height: 260px;

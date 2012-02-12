@@ -67,8 +67,8 @@
 		    <li><a href="#">Ingresar</a></li>
 		    <li><a href="#">Registrarme</a></li>
             <li class="dropdown">
-              <a href="#menu1" class="dropdown-toggle">Dropdown</a>
-              <ul id="menu1" class="dropdown-menu">
+              <a href="#fat" class="dropdown-toggle">Dropdown</a>
+              <ul id="fat" class="dropdown-menu">
                 <li><a href="#">Secondary link</a></li>
                 <li><a href="#">Something else here</a></li>
                 <li class="divider"></li>
