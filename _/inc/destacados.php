@@ -80,6 +80,23 @@
         </tbody>
       </table>
       <h3>Ranking General</h3>
+<div class="row">
+<ul class="nav nav-pills">  
+            <li class="active"><a href="#">Home</a></li> 
+            <li><a href="#">Link</a></li> 
+            <li><a href="#">Link</a></li> 
+            <li><a href="#">Link</a></li> 
+            <li class="dropdown" data-dropdown="dropdown"> 
+              <a href="#" class="dropdown-toggle">Dropdown</a> 
+              <ul class="dropdown-menu"> 
+                <li><a href="#">Secondary link</a></li> 
+                <li><a href="#">Something else here</a></li> 
+                <li class="divider"></li> 
+                <li><a href="#">Another link</a></li> 
+              </ul> 
+            </li> 
+          </ul> 
+</div>
 					<table class="table table-striped">
         <thead>
           <tr>

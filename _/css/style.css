@@ -309,17 +309,20 @@ margin-top:10px;
 }
 #registradosData {
 	width: 90px;
+	text-align: center;
 }
 #infoHomeStats {
 	margin-top: 20px;
 }
 #registradosOnline {
 	width: 70px;
+	text-align: center;
 }
 #h4Home {
-	font-size: 28px;
+font-size: 23px;
 color: #333333;
 text-shadow: -1px 1px 1px #FFFFFF;
+text-align: center;
 }
 #usuarioRegistrado {
 	margin-left: 20px;

@@ -11,6 +11,8 @@
  
 	<link rel="stylesheet" href="_/css/bootstrap.css">
 	<link rel="stylesheet" href="_/css/style.css">
+	<link rel="stylesheet" href="_/js/bootstrap-dropdown.js">
+    <link rel="stylesheet" href="_/js/jquery-1.7.1.min.js">
     <link rel="shortcut icon" href="images/favicon.ico"> 
     <link rel="apple-touch-icon" href="images/apple-touch-icon.png"> 
     <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png"> 
@@ -53,6 +55,7 @@
 		    
 	</div>
 	</div>
+	<div class="topbar" data-dropdown="dropdown" >
   <div class="navbar">
 	  <div class="navbar-inner" id="menuNav">
 	    <div class="container">
@@ -63,20 +66,21 @@
             <li><a href="#">Chat</a></li>
 		    <li><a href="#">Ingresar</a></li>
 		    <li><a href="#">Registrarme</a></li>
+            <li class="dropdown">
+              <a href="#menu1" class="dropdown-toggle">Dropdown</a>
+              <ul id="menu1" class="dropdown-menu">
+                <li><a href="#">Secondary link</a></li>
+                <li><a href="#">Something else here</a></li>
+                <li class="divider"></li>
+                <li><a href="#">Another link</a></li>
+              </ul>
+            </li>
             </ul>
             <form class="navbar-search pull-left" action="">
             <input type="text" class="search-query span2" placeholder="Buscar">
           </form>
-            <ul class="nav pull-right">
-			  <li class="dropdown">
-			    <a href="#" class="dropdown-toggle" data-toggle="dropdown">
-			          Categorías
-			          <b class="caret"></b>
-			    </a>
-			    <ul class="dropdown-menu">
-			    </ul>
-			  </li>
-			</ul>
+             
+				</div>
 				</div>
   		</div>
 		</div> 
