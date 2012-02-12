@@ -382,3 +382,9 @@ color:#931C74;
 .pagination{
 padding-left: 90px;
 }
+#filtroHome {
+	height: 35px;
+	padding-bottom: 5px;
+	padding-top: 4px;
+	padding-left: 20px;
+}

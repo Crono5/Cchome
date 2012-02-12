@@ -51,51 +51,49 @@
 					<table class="table table-striped">
         <thead>
           <tr>
-            <th>Tiempo</th>
-            <th>Usuario</th>
+          	<th>Título</th>
             <th>Puntos</th>
           </tr>
-        </thead>
-        <tbody>
+         </thead>
           <tr>
-            <td>Día</td>
-            <td>JulianD</td>
-            <td>8,509</td>
+          	<td><a>Arturito</a></td>
+          	<td>3,562</td>
           </tr>
           <tr>
-            <td>Semana</td>
-            <td>Jacob</td>
-            <td>2,233</td>
+          	<td><a>Loncuster</a></td>
+          	<td>3,560</td>
           </tr>
           <tr>
-          <td>Mes</td>
-            <td>Sara</td>
-            <td>17,900</td>
+          	<td><a>Pablou</a></td>
+          	<td>3,533</td>
           </tr>
           <tr>
-          <td>Año</td>
-            <td>Loncu</td>
-            <td>172,900</td>
+          	<td><a>Carolina</a></td>
+          	<td>3,003</td>
           </tr>
-        </tbody>
+          <tr>
+          	<td><a>Jorge</a></td>
+          	<td>2,562</td>
+          </tr>
+          
+           </tbody>
       </table>
-      <h3>Ranking General</h3>
-<div class="row">
-<ul class="nav nav-pills">  
-            <li class="active"><a href="#">Home</a></li> 
-            <li><a href="#">Link</a></li> 
-            <li><a href="#">Link</a></li> 
-            <li><a href="#">Link</a></li> 
-            <li class="dropdown" data-dropdown="dropdown"> 
-              <a href="#" class="dropdown-toggle">Dropdown</a> 
+      
+<div class="row" id="filtroHome">
+	<div class="span4"><h4>Ranking General <small>Los post con más puntos</small></h4></div>
+	<div class="span1"><ul class="nav nav-pills pull-right ">  
+              <li class="dropdown" data-dropdown="dropdown"> 
+              <a href="#" class="dropdown-toggle active">Día</a> 
               <ul class="dropdown-menu"> 
-                <li><a href="#">Secondary link</a></li> 
-                <li><a href="#">Something else here</a></li> 
+                <li><a href="#">Semana</a></li> 
+                <li><a href="#">Mes</a></li> 
+                <li><a href="#">Año</a></li> 
                 <li class="divider"></li> 
-                <li><a href="#">Another link</a></li> 
+                <li><a href="#">Ver todo</a></li> 
               </ul> 
             </li> 
-          </ul> 
+          </ul>
+</div>	
 </div>
 					<table class="table table-striped">
         <thead>
