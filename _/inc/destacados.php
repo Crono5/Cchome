@@ -50,8 +50,8 @@
 				
 					<h3>Ranking General</h3>
 					<div class="row" id="filtroHome">
-<div class="span2"><h4>Ranking General <small>Los post con más puntos</small></h4></div>
-<div class="span3">
+<div class="span4"><h4>Ranking General <small>Los post con más puntos</small></h4></div>
+<div class="span2" id="dropDHome">
 <div class="btn-group">
 <a class="btn" href="#">Día</a>
 <a class="btn dropdown-toggle" data-toggle="dropdown" href="#">
@@ -97,17 +97,17 @@
       </table>
       
 <div class="row" id="filtroHome">
-<div class="span2"><h4>Ranking General <small>Los post con más puntos</small></h4></div>
-<div class="span3">
+<div class="span4"><h4>Ranking General <small>Los post con más puntos</small></h4></div>
+<div class="span2" id="dropDHome">
 <div class="btn-group">
-<a class="btn" href="#">Día</a>
-<a class="btn dropdown-toggle" data-toggle="dropdown" href="#">
-<span class="caret"></span>
-</a>
-<ul class="dropdown-menu">
-<li><a href="#">Semana</a></li>
-<li><a href="#">Mes</a></li>
-<li><a href="#">Año</a></li>
+	<a class="btn" href="#">Día</a>
+	<a class="btn dropdown-toggle" data-toggle="dropdown" href="#">
+	<span class="caret"></span>
+	</a>
+	<ul class="dropdown-menu">
+	<li><a href="#">Semana</a></li>
+	<li><a href="#">Mes</a></li>
+	<li><a href="#">Año</a></li>
 </ul>
 </div>	
 </div>	
