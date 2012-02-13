@@ -68,22 +68,40 @@
             <li><a href="#">Chat</a></li>
 		    <li><a href="#">Ingresar</a></li>
 		    <li><a href="#">Registrarme</a></li>
-			<form class="navbar-search pull-right" action="">
-            <input type="text" class="search-query span2" placeholder="Buscar">
-            </form>
 			</ul>
-			<li class="pull-right">
+			<li class="pull-left">
 			<ul class="nav">
                   <li id="fat-menu" class="dropdown">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown">Categorias<b class="caret"></b></a>
                     <ul class="dropdown-menu">
-                      <li><a href="http://colombiacaliente.net/index.php?id=117">Caserita de la semana</a></li><li><a href="http://colombiacaliente.net/index.php?id=119">Paparazzi Colombiano</a></li><li><a href="http://colombiacaliente.net/index.php?id=111">Guía Erótica </a></li><li><a href="http://colombiacaliente.net/index.php?id=118">Violencia (Qhubo- El espacio)</a></li><li><a href="http://colombiacaliente.net/index.php?id=14">Amateur</a></li><li><a href="http://colombiacaliente.net/index.php?id=108">Articulos y noticias calientes</a></li><li><a href="http://colombiacaliente.net/index.php?id=4">Caseras</a></li><li><a href="http://colombiacaliente.net/index.php?id=48">Colombianas Calientes</a></li><li><a href="http://colombiacaliente.net/index.php?id=110">Escotes y Tetas</a></li><li><a href="http://colombiacaliente.net/index.php?id=23">Hombres</a></li><li><a href="http://colombiacaliente.net/index.php?id=46">Humor</a></li><li><a href="http://colombiacaliente.net/index.php?id=109">Imágenes</a></li><li><a href="http://colombiacaliente.net/index.php?id=96">Lesbianas y Gay</a></li><li><a href="http://colombiacaliente.net/index.php?id=94">Mujeres maduras</a></li><li><a href="http://colombiacaliente.net/index.php?id=45">Peticiones / Soporte</a></li><li><a href="http://colombiacaliente.net/index.php?id=42">Swingers</a></li><li><a href="http://colombiacaliente.net/index.php?id=95">Videos On-line</a></li><li><a href="http://colombiacaliente.net/index.php?id=76">Relatos</a></li><li><a href="http://colombiacaliente.net/index.php?id=114">CONTACTOS ERÓTICOS</a></li><li><a href="http://colombiacaliente.net/index.php?id=66">Amarillismo</a></li>
+                      <li><a href="http://colombiacaliente.net/index.php?id=117"><i class="icon-heart"></i> Caserita de la semana</a></li><li><a href="http://colombiacaliente.net/index.php?id=119">Paparazzi Colombiano</a></li>
+                      <li><a href="http://colombiacaliente.net/index.php?id=111">Guía Erótica </a></li>
+						<li><a href="http://colombiacaliente.net/index.php?id=118">Violencia (Qhubo- El espacio)</a></li>
+						<li><a href="http://colombiacaliente.net/index.php?id=14">Amateur</a></li>
+						<li><a href="http://colombiacaliente.net/index.php?id=108">Articulos y noticias calientes</a></li>
+						<li><a href="http://colombiacaliente.net/index.php?id=4">Caseras</a></li>
+						<li><a href="http://colombiacaliente.net/index.php?id=48">Colombianas Calientes</a></li>
+						<li><a href="http://colombiacaliente.net/index.php?id=110">Escotes y Tetas</a></li>
+						<li><a href="http://colombiacaliente.net/index.php?id=23">Hombres</a></li>
+						<li><a href="http://colombiacaliente.net/index.php?id=46">Humor</a></li>
+						<li><a href="http://colombiacaliente.net/index.php?id=109">Imágenes</a></li>
+						<li><a href="http://colombiacaliente.net/index.php?id=96">Lesbianas y Gay</a></li>
+						<li><a href="http://colombiacaliente.net/index.php?id=94">Mujeres maduras</a></li>
+						<li><a href="http://colombiacaliente.net/index.php?id=45">Peticiones / Soporte</a></li>
+						<li><a href="http://colombiacaliente.net/index.php?id=42">Swingers</a></li>
+						<li><a href="http://colombiacaliente.net/index.php?id=95">Videos On-line</a></li>
+						<li><a href="http://colombiacaliente.net/index.php?id=76">Relatos</a></li>
+						<li><a href="http://colombiacaliente.net/index.php?id=114">CONTACTOS ERÓTICOS</a></li>
+						<li><a href="http://colombiacaliente.net/index.php?id=66">Amarillismo</a></li>
                       <li class="divider"></li>
                       <li><a href="#">Ver todas</a></li>
                     </ul>
                   </li>
             </ul>
 			</li>
+			<form class="navbar-search pull-right" action="">
+            <input type="text" class="search-query span2" placeholder="Buscar">
+            </form>
             </ul>
             
              

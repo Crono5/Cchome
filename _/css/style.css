@@ -28,7 +28,8 @@ margin-top: 10px;
 margin-bottom: -10px;
 }
 #linkMenuUser {
-	color: #2E2E2E;
+	color: #FFFEF4;
+	background-color: #4C0B5F;
 }
 #menuUserColor {
 -webkit-border-radius: 0px;
@@ -63,7 +64,6 @@ margin-top: 10px;
 }
 #titulosWidget {
 padding-bottom: 10px;
-border-bottom: 1px solid #ccc;
 width: 440px;
 margin: 0px 0px 0px -10px;
 padding-left: 10px;
@@ -83,17 +83,21 @@ width: 330px;
 #postHome{
 width: 450px;
 margin-left: -10px;
-border-top: 2px solid #fff;
-border-bottom: 1px solid #ccc;
+border-top: 1px solid #E6E6E6;
+border-bottom: 1px solid #FAFAFA;
 min-height: 160px;
+background-color: #FAFAFA;
+border-left: 1px solid #E6E6E6;
+border-right: 1px solid #FAFAFA;
 }
 #unete{
 height: 260px;
-background-color: #dee8e1;
+background-color: #F2F2F2;
 -webkit-border-radius: 5px;
 -moz-border-radius: 5px;
 border-radius: 5px;
 margin-left: -30px;
+
 }
 .widgetBloqueHome {
 	width: 480px;
@@ -138,7 +142,7 @@ height:25px;
 }
 #destacados{
 height: 770px;
-background-color: #dee8e1;
+background-color: #F2F2F2;
 -webkit-border-radius: 5px;
 -moz-border-radius: 5px;
 border-radius: 5px;
@@ -174,7 +178,7 @@ margin:0px;
 height:210px;
 width: 305px;
 margin-left: -30px;
-background-color: #dee8e1;
+background-color: #F2F2F2;
 -webkit-border-radius: 5px;
 -moz-border-radius: 5px;
 border-radius: 5px;
@@ -206,7 +210,7 @@ border-radius: 5px;
 height:200px;
 width: 305px;
 margin-left: -30px;
-background-color: #dee8e1;
+background-color: #F2F2F2;
 -webkit-border-radius: 5px;
 -moz-border-radius: 5px;
 border-radius: 5px;
@@ -340,33 +344,37 @@ text-align: center;
 	margin: 20px 20px 10px 20px;
 }
 .table-striped tbody tr:nth-child(odd) td, .table-striped tbody tr:nth-child(odd) th  {
-	background-color: #CFE1D4;
+	background-color: #E6E6E6;
 }
 #userInfo{
 -webkit-border-radius: 3px;
 -moz-border-radius: 3px;
 border-radius: 3px;
-background-color: #CFE1D4;
+background-color: #E6E6E6;
 margin-left: 30px;
 padding-bottom: 10px;
 padding-right: 10px;
 width: 210px;
 padding-top: 5px;
-border-top: #B5CFBB 1px solid;
-border-bottom: 1px solid #A6C6AE;
+border-top: #D8D8D8 1px solid;
+border-bottom: 1px solid #D4D4D4;
+border-left: #D4D4D4 1px solid;
+border-right: #D8D8D8 1px solid;
 }
 #userPost {
 -webkit-border-radius: 3px;
 -moz-border-radius: 3px;
 border-radius: 3px;
-background-color: #CFE1D4;
+background-color: #E6E6E6;
 margin-left: 10px;
 padding-bottom: 10px;
 padding-right: 20px;
 width: 210px;
 padding-top: 5px;
-border-top: #B5CFBB 1px solid;
-border-bottom: 1px solid #A6C6AE;
+border-top: #D8D8D8 1px solid;
+border-bottom: 1px solid #D4D4D4;
+border-left: #D4D4D4 1px solid;
+border-right: #D8D8D8 1px solid;
 }
 #userPost > h3 {
 margin-left:20px;
@@ -392,4 +400,15 @@ padding-left: 90px;
 }
 #dropDHome {
 	width: 80px;
+}
+.destacados {
+background: #cccccc;
+background: -moz-linear-gradient(top,  #cccccc 0%, #eeeeee 100%);
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#cccccc), color-stop(100%,#eeeeee));
+background: -webkit-linear-gradient(top,  #cccccc 0%,#eeeeee 100%);
+background: -o-linear-gradient(top,  #cccccc 0%,#eeeeee 100%);
+background: -ms-linear-gradient(top,  #cccccc 0%,#eeeeee 100%);
+background: linear-gradient(top,  #cccccc 0%,#eeeeee 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cccccc', endColorstr='#eeeeee',GradientType=0 );
+
 }

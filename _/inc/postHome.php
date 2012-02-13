@@ -1,4 +1,4 @@
-<div class="row" id="postHome">
+<div class="row destacados" id="postHome">
 		      <div class="span2" id="tumbHome">
 				<ul class="thumbnails">
 					<li class="thumbnail">
@@ -31,7 +31,7 @@
 				</div>		
 </div>
 <!-- Posts de muestra -->
-<div class="row" id="postHome">
+<div class="row destacados" id="postHome">
 		      <div class="span2" id="tumbHome">
 				<ul class="thumbnails">
 					<li class="thumbnail">
@@ -63,7 +63,7 @@
 					</div>
 				</div>		
 </div>
-<div class="row" id="postHome">
+<div class="row destacados" id="postHome">
 		      <div class="span2" id="tumbHome">
 				<ul class="thumbnails">
 					<li class="thumbnail">
