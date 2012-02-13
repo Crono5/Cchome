@@ -1,8 +1,8 @@
 ﻿<div class="span6">
 			<div class="row widgetBloqueHome" id="unete">
-				<h2 id="titulosWidgetSidebar">Unete</h2>
+				<h2 id="titulosWidgetSidebar">¡Únete Ahora!</h2>
 				<div class="span4">
-				<h3>Comunidad</h3>
+				<h3>Quienes somos</h3>
 				<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. </p>
 				<div class="row">
 					<div class="span1" id="fbBtnHome">
@@ -40,7 +40,8 @@
 				</div>
 				<div class="row">
 				<div class="span4" id="mensajePublicar">
-				<p><a class="btn" id="btnpubli" href="#"><i class="icon-plus"></i> Publicar</a></p>
+				<div class="row" id="botonesHome"><p><a class="btn" href="#"><i class="icon-plus"></i> Regístrate</a> <a class="btn" id="registrarseBtn" href="#"><i class="icon-share icon-white"></i> Publicar</a></p>
+</div>
 				</div>
 				</div>
 				</div>

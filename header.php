@@ -17,9 +17,16 @@
     <link rel="apple-touch-icon" href="images/apple-touch-icon.png"> 
     <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png"> 
     <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png"> 
-	<script type="text/javascript" src="_/js/jquery-1.7.1.min.js"></script>
+	<script type='text/javascript' src='http://code.jquery.com/jquery-1.7.js'></script>
     <script type="text/javascript" src="_/js/scripts.js"></script>
 	<script type="text/javascript" src="_/js/bootstrap.js"></script>
+	<script type="text/javascript" src="_/js/bootstrap-modal.js"></script>
+<script type='text/javascript'>$(function() {
+    $('#event-modal').modal({
+        keyboard: false;
+    });
+});
+</script> 
   </head> 
  
   <body id="bgNuevo"> 
@@ -33,6 +40,8 @@
 			</div> 
 		</div> 
 		<div class="container">
+			
+
 	<div class="row" id="menuUser">
 		
 		<div class="span6">			
@@ -66,7 +75,8 @@
             <li><a href="#">Buscador</a></li>
             <li><a href="#">Contactos</a></li>
             <li><a href="#">Chat</a></li>
-		    <li><a href="#">Ingresar</a></li>
+		    <li><a data-toggle="modal" href="#event-modal">Ingresar</a></li>
+		    <?php include '_/inc/login.php';?>
 		    <li><a href="#">Registrarme</a></li>
 			</ul>
 			<li class="pull-left">
@@ -109,5 +119,6 @@
 				</div>
   		</div>
 		</div> 
+		
 		<div class="row" id="contenedorHome">
 	
