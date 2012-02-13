@@ -6,7 +6,7 @@
             <div class="modal-body">
             	<div class="row">
             		<div class="span6">
-            			<div class="span3"><form class="well form-search">
+            			<div class="span2"><form class="well form-search">
         <input type="text" class="input-small" placeholder="Email">
         <input type="password" class="input-small" placeholder="Password">
         <button type="submit" class="btn">Go</button>
@@ -15,8 +15,6 @@
             			<form>
         <input type="text" class="input-small" placeholder="Usuario">
         <input type="password" class="input-small" placeholder="Contraseña">
-         <input type="password" class="input-small" placeholder="Confirmar Contraseña">
-          <input type="password" class="input-small" placeholder="Email">
         <button type="submit" class="btn">Registrarme</button>
       </form>
       </div>

@@ -67,7 +67,7 @@
 	</div>
 	<div class="topbar" data-dropdown="dropdown" >
   <div class="navbar">
-  
+  <?php include '_/inc/login.php';?>
 	  <div class="navbar-inner" id="menuNav">
 	    <div class="container">
            <a class="brand" href="#">Colombia Caliente</a>
@@ -76,7 +76,7 @@
             <li><a href="#">Contactos</a></li>
             <li><a href="#">Chat</a></li>
 		    <li><a data-toggle="modal" href="#event-modal">Ingresar</a></li>
-		    <?php include '_/inc/login.php';?>
+		    
 		    <li><a href="#">Registrarme</a></li>
 			</ul>
 			<li class="pull-left">
