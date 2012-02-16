@@ -437,3 +437,14 @@ text-align: center;
 #event-modal {
     margin-top: 0;
 }
+#fotoUserPost {
+	width: 90px;
+	margin-left: 10px;
+}
+#infoUserPost {
+	padding: 10px;
+margin-left: -10px;
+background-color: #D8D8D8;
+width: 260px;
+height: 200px;
+}
